@@ -2,40 +2,7 @@
   link: https://faktaoklimatu.cz
   class: no-ext-link-icon
 
-- title: Podporte nás <i class="fas fa-fw fa-heart"></i>
+- title: Support us <i class="fas fa-fw fa-heart"></i>
   fundraising: true
   class: no-ext-link-icon
-
-# - title: Úvod
-#   link: /
-
-# - title: Témy
-#   dropdown: true
-#   list-topics: true
-
-# - title: Explainery
-#  link: /explainery
-
-# - title: O projekte
-#   link: /o-projekte
-
-# - title: Viac
-#   dropdown:
-#     - title: Aktuality
-#       link: /aktuality
-# 
-#     - title: Slovník pojmov
-#       link: /{{ site.slugs.glossary }}
-# 
-#     - title: Ďalšie zdroje a odkazy
-#       link: /zdroje
-# 
-#     - title: Ako používať naše materiály
-#       link: /{{ site.slugs.how-to-use }}
-# 
-#    - title: Atlas klimatickej zmeny
-#      link: /atlas
-# 
-#     - title: Podporte nás <i class="fas fa-fw fa-heart"></i>
-#       fundraising: true
-#       class: no-ext-link-icon
+  

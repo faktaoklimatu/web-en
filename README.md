@@ -1,7 +1,17 @@
-# O projektu Fakta o klimatu
+# Facts on climate
 
-Shromažďujeme data o klimatu a klimatické změně, která poskytují vědecké instituce (ČHMÚ, NASA, Eurostat a jiné) a zpracováváme z nich grafy, infografiky a přístupné datasety pro další použití.
+_Facts on climate_ started as a volunteer initiative in 2019 and has become an NGO in October 2020. Throughout the volunteer phase the initiative has created about 40 infographics covering many aspects of climate change (temperature and emissions data, energy, future scenarios, adaptation and mitigation measures) and summaries of selected international reports and studies. Due to the high visual quality of our work, many of the published materials were adopted by major Czech and Slovak media. Fakta o klimatu received an award for Communication of Global Climate Change in October 2020 awarded by Czech Learned Society and Czech UN office.
 
-Jsme studenti, doktorandi, akademici nebo IT profesionálové. Sami jsme si zkusili vyhledat data o teplotě či emisích, najít určité informace v mnohasetstránkových zprávách IPCC nebo původních článcích. Jde to, ale zabere to hodně času. Musíte umět dobře anglicky a musíte si dohledávat spoustu souvislostí. Běžný novinář nebo politik (ani bězný Čech) většinou nemá tolik trpělivosti nebo dostatečnou úroveň angličtiny a tak si data nevyhledá. Rozhodli jsme se proto, že tu práci, kterou jsme s hledáním dat sami měli, ostatním ušetříme - zpracujeme infografiky, dáme odkazy na původní data i naše zpracované datasety na jedno místo a doplníme základní souvislosti. A dáme je k dispozici všem, pro koho budou užitečné. Doufáme, že se postupně tyto informace dostanou ke všem, kterých se změny klimatu týkají. Tedy ke všem.
+Distinguishing features of our products:
 
-Informace k licenci najdete v souboru [LICENSE.md](LICENSE.md), autory v [CONTRIBUTORS.md](CONTRIBUTORS.md) vývojářskou dokumentaci najdete v [repozitáři s webovým systém](https://github.com/faktaoklimatu/web-core).
+* High class visuals that convey meaning of the data, tested for comprehensibility.
+* Vector graphics in creative commons license that can be easily adjusted to graphical style of outlet,
+* We also provide consultation of interpretation and context for journalists and policymakers.
+
+For general reference of our work see the Czech version of teh site at [faktaoklimatu.cz](https://faktaoklimatu.cz).
+
+## Mission
+
+**Changing how people talk and think about climate change and climate policies.**
+
+The project _Facts on climate_ aims to change the narrative landscape and enhance the quality of discussion about climate change issues and possible solutions among interested public and policymakers by creating data visualizations related to climate change, energy, emissions etc. and thus anchoring the discussion in facts. These visualizations are further used by journalists and teachers or become part of argumentation for sustainable policies by businesses.

@@ -6,26 +6,12 @@
 }
 
 .intro {
-    .tagline { width: 11rem; }
-    p { padding-left: 14rem; }
-    form { padding-left: 14rem; }
-}
-
-.support-block {
-    padding: 1rem 0 3rem 14rem;
-    display: grid;
-    grid-template: 1fr / 1fr;
-    place-items: center;
-
-    * {
-        grid-column: 1 / 1;
-        grid-row: 1 / 1;
-    }
-    .widget-darujme {
-        z-index: 2;
-    }
+    padding-bottom: 3rem!important;
+    .tagline { width: 14rem; }
+    p { padding-left: 18rem; }
+    h2 { padding-left: 18rem; }
 }
 
 @media screen and (max-width: 768px) {
-    .support-block { padding-left: 0; }
+    h2 { padding-left: 0; }
 }

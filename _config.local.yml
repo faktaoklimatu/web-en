@@ -18,3 +18,7 @@ collections:
     pages:
         output: true
         permalink: /:title
+
+# Enable Czech smart quotes
+kramdown:
+    smart_quotes: lsquo,rsquo,ldquo,rdquo

@@ -1,8 +1,13 @@
-- title: Fakta o klimatu.cz
-  link: https://faktaoklimatu.cz
-  class: no-ext-link-icon
-
 - title: Support us <i class="fas fa-fw fa-heart"></i>
   fundraising: true
   class: no-ext-link-icon
-  
+
+- title: english
+  lang: en
+  dropdown:
+    - title: česky
+      lang: cs
+      link: https://faktaoklimatu.cz
+    - title: slovensky
+      lang: sk
+      link: https://faktyoklime.sk

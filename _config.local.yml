@@ -14,7 +14,7 @@ description: We collect data on climate and climate change provided by scientifi
 keywords: climate, climate change, infographics
 
 deploy:
-  firebase-project: cz-fakta-o-klimatu
+  firebase-project: en-facts-on-climate
   cors-report-uri: https://nkas07xe.uriports.com
 
 # Set permalinks in local language

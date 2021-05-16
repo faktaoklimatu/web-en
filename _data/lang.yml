@@ -2,7 +2,7 @@
 
 navigation:
   dev-version: "This is the developer version."
-  dev-differences: "Compared to production, web analytics is missing."
+  dev-differences: "Compared to production, web analytics is missing, cache validity is down to 5 minutes and CSP violations are not sent to URIports."
 
 footer:
   get-newsletter: "Subscribe to newsletter (CZ)"

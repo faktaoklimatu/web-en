@@ -13,11 +13,43 @@ copyright: "&copy; 2021 Otevřená data o klimatu, z. ú."
 description: We collect data on climate and climate change provided by scientific institutions and transform them into infographics for further use.
 keywords: climate, climate change, infographics
 
+deploy:
+  firebase-project: cz-fakta-o-klimatu
+  cors-report-uri: https://nkas07xe.uriports.com
+
 # Set permalinks in local language
 collections:
     pages:
         output: true
         permalink: /:title
+
+# Set permalinks in local language
+collections:
+  pages:
+    output: true
+    permalink: /:title
+    title: pages
+    weight: 0
+  explainers:
+    output: false
+    permalink: /explainers/:title
+    title: explainers
+    weight: 1
+  infographics:
+    output: false
+    permalink: /infographics/:title
+    title: infographics
+    weight: 2
+  studies:
+    output: false
+    permalink: /studies/:title
+    title: studies and surveys
+    weight: 3
+  datasets:
+    output: false
+    permalink: /datasets/:title
+    title: datasets
+    weight: 4
 
 # Enable Czech smart quotes
 kramdown:

@@ -1,10 +1,10 @@
 WEB_CORE_FOLDER=web-core
 
-all web check local deploy clean bundle-install reinstall container build-container delete-container: web-core
-	cd $(WEB_CORE_FOLDER) && make $@
+all build check local clean clean-build bundle-install container build-container delete-container lighthouse deploy-preview deploy-production: web-core
+	$(MAKE) -C $(WEB_CORE_FOLDER) $@
 
 web-core:
 	git submodule update --init --recursive
 
-.PHONY: all web check local deploy clean bundle-install reinstall container build-container delete-container
+.PHONY: all build check local clean clean-build bundle-install container build-container delete-container lighthouse deploy-preview deploy-production
 .PHONY: web-core

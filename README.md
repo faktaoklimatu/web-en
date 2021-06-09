@@ -1,6 +1,6 @@
 # Facts on climate
 
-_Facts on climate_ started as a volunteer initiative in 2019 and has become an NGO in October 2020. Throughout the volunteer phase the initiative has created about 40 infographics covering many aspects of climate change (temperature and emissions data, energy, future scenarios, adaptation and mitigation measures) and summaries of selected international reports and studies. Due to the high visual quality of our work, many of the published materials were adopted by major Czech and Slovak media. Fakta o klimatu received an award for Communication of Global Climate Change in October 2020 awarded by Czech Learned Society and Czech UN office.
+_Facts on climate_ started as a volunteer initiative in 2019 and has become an NGO in October 2020. Throughout the volunteer phase the initiative has created about 40 infographics covering many aspects of climate change (temperature and emissions data, energy, future scenarios, adaptation and mitigation measures) and summaries of selected international reports and studies. Due to the high visual quality of our work, many of the published materials were adopted by major Czech and Slovak media. _Fakta o klimatu_ received an award for Communication of Global Climate Change in October 2020 awarded by Czech Learned Society and Czech UN office.
 
 Distinguishing features of our products:
 
@@ -8,7 +8,7 @@ Distinguishing features of our products:
 * Vector graphics in creative commons license that can be easily adjusted to graphical style of outlet,
 * We also provide consultation of interpretation and context for journalists and policymakers.
 
-For general reference of our work see the Czech version of teh site at [faktaoklimatu.cz](https://faktaoklimatu.cz).
+For general reference of our work see the Czech version of the site at [faktaoklimatu.cz](https://faktaoklimatu.cz).
 
 ## Mission
 

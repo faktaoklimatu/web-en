@@ -1,6 +1,33 @@
-- title: Support us <i class="fas fa-fw fa-heart"></i>
-  fundraising: true
-  class: no-ext-link-icon
+- title: Home
+  link: /
+
+- title: Topics
+  dropdown: topics
+  list-topics: true
+
+- title: More
+  dropdown:
+    - title: News
+      link: /news
+
+    - title: Glossary
+      link: /glossary
+
+#    - title: Další zdroje a odkazy
+#      link: /zdroje
+
+    - title: How to use our material
+      link: /how-to-use
+
+#    - title: Atlas klimatické změny
+#      link: /atlas
+
+    - title: Support us <i class="fas fa-fw fa-heart"></i>
+      fundraising: true
+      class: no-ext-link-icon
+
+    - title: About
+      link: /about
 
 - title: english
   lang: en

@@ -3,8 +3,91 @@
 navigation:
   dev-version: "This is the developer version."
   dev-differences: "Compared to production, web analytics is missing, cache validity is down to 5 minutes and CSP violations are not sent to URIports."
+  search-empty: "Nothing found"
+  search-failed: "The search does not work. Maybe an Internet connection problem?"
 
 footer:
   get-newsletter: "Subscribe to newsletter (CZ)"
   support-us: "Support us"
   last-change: "Last change"
+  privacy-policy: "Privacy policy"
+
+licence:
+  id: "CC BY 4.0"
+  title: "Creative Commons Attribution 4.0 International"
+  link: "https://creativecommons.org/licenses/by/4.0/deed.en"
+
+text:
+  toc: "Table of Contents"
+  study:
+    study: "Study"
+    summary: "Summary"
+  survey:
+    survey: "Survey"
+  dataset:
+    dataset: "Dataset"
+    source: "Source"
+    description: "Description"
+    link: "Link"
+    licence: "Licence"
+    see: "see"
+    licence-proof: "licence information"
+  explainer:
+    explainer: "Explainer"
+    source: "Source"
+    author: "Author"
+    licence: "Licence"
+  related:
+    title: "Related infographics and studies"
+    caption: "Interested in our work? Investigate other related infographics and studies:"
+    dataset-based: "Infographics based on this dataset"
+  index:
+    all-news: "Display all news, corrections and updates..."
+    all-tag: "Other infographics, studies and datasets on this topic"
+
+sidebar:
+  download:
+    title: "Download"
+    caption: "Do you like our infographic? Download and use it!"
+    which-file-format: "Which format should I choose?"
+  data:
+    title: "Underlaying data"
+    caption-dataset: "Want to see the numbers? This infographic is based on our dataset."
+    caption-data: "Want to see the numbers? Check our table with data or original sources."
+    button-dataset: "Our dataset"
+    button-data: "Out table with data"
+    button-data-orig: "Original data source"
+  share:
+    title: "Sharing and licence"
+    caption-infographic: "All our infographics are available for further use under"
+    caption-dataset-1: "All our datasets are available for further use under"
+    caption-dataset-2: "Original data have multiple licences, see the detailed text accompanying the dataset."
+    usage: "How to use correctly?"
+    button-facebook: "Share on Facebook"
+    button-twitter: "Share on Twitter"
+    button-embed: "Embed in a website"
+    modal-title: "How to correctly cite factsonclimate.org?"
+  mobile:
+    title: "Data, licence a sharing"
+    caption-infographic: "See the underlaying data or share the infographic. All our infographics are available under"
+    caption-dataset: "See or share the underlaying data. All our infographics are available under"
+    download: "Download"
+    data: "Data"
+    share: "Sharing"
+  study:
+    author: "Author"
+    institution: "Institution"
+    year: "Publication year"
+    source-web: "study Website"
+    source-pdf: "study PDF"
+
+tag:
+  all-tags-caption: "An overview of scopes and topics,<br/>we pursue"
+  scope: "Scope"
+  topic: "Topic"
+  all-scope: "All infographics, studies and datasets with the scope of"
+  all-topic: "All infographics, studies and datasets related to"
+  all-explainers: "Our explainers related to the topic. We explain important matters and provide context."
+  all-infographics: "Our infographics related to the topic. On the infographic page, you always find the data source and more details."
+  all-studies: "Our surveys and study summaries related to the topic. For every study, we state why it's important and provide a summary."
+  all-datasets: "Our datasets related to the topic. Typically, we combine multiple sources and explain, how exactly are our infographics based on them."

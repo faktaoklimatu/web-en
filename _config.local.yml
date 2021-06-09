@@ -64,7 +64,7 @@ jekyll-archives:
   layouts:
     tag: tag
   permalinks:
-    tag: '/tags/:name/'
+    tag: '/topics/:name/'
   collections:
     merge_tags: true
 

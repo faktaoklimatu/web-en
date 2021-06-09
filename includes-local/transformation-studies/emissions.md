@@ -5,7 +5,7 @@ Většina z pokrytých studií nějakým způsobem počítá emise CO<sub>2</sub
 1. **Přímé emise** zahrnují jen provoz elektrárny (u fosilních zdrojů to je hlavně CO<sub>2</sub> vypouštěné při spalování).
 2. **Emise celého cyklu** navíc zahrnují emise spojené se stavbou elektrárny a výrobou jejích komponent (např. tavení křemíku pro solární panely), emise spojené s těžbou a úniky skleníkových plynů při těžbě a transportu surovin (např. u zemního plynu).
 
-Úsporu v emisích skleníkových plynů produkovaných na českém území nejlépe vyjadřují emise přímé (příp. doplněné o emise související s těžbou uhlí). Takovéto národní emise srovnáváme v mnohých [našich infografikách](/temata/emise/) a také se na ně vztahují emisní cíle Evropské unie a Česka.
+Úsporu v emisích skleníkových plynů produkovaných na českém území nejlépe vyjadřují emise přímé (příp. doplněné o emise související s těžbou uhlí). Takovéto národní emise srovnáváme v mnohých [našich infografikách](/topics/emise/) a také se na ně vztahují emisní cíle Evropské unie a Česka.
 
 Na druhou stranu emise celého cyklu lépe vystihují český přínos v kontextu celosvětové sumy emisí. Fakta o klimatu se přiklání k tomuto druhému pohledu z několika důvodů:
 

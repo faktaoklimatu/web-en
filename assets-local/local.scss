@@ -1,21 +1,7 @@
 /* Local CSS for slovak web version */
 
-.single-page {
-    background: linear-gradient(transparent 0, #ffffff 200px),url(/assets-local/img/infographics-preview.png) !important;
-    padding-top: 150px !important;
-}
-
 .intro {
-    padding-bottom: 3rem!important;
     .tagline { width: 14rem; }
     p { padding-left: 18rem; }
-    h2 { padding-left: 18rem; }
-}
-
-@media screen and (max-width: 768px) {
-    h2 { padding-left: 0; }
-}
-
-.p-smaller {
-    font-size: 1.25rem!important;
+    form { padding-left: 18rem; }
 }

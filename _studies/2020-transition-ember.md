@@ -123,11 +123,11 @@ Ember ještě kromě hlavního scénáře modeloval dva alternativní.
 
 ### Referenční scénář
 
-V tomto scénáři nebyl požadován uhelný phase-out. Rozvoj instalovaného výkonu všech ostatních zdrojů byl pro rok 2030 stanoven podle predikcí [scénáře NECP](2019-scenar-necp). V tomto velmi těsném rámci pak probíhala optimalizace výroby elektřiny podle nejnižších nákladů.
+V tomto scénáři nebyl požadován uhelný phase-out. Rozvoj instalovaného výkonu všech ostatních zdrojů byl pro rok 2030 stanoven podle predikcí [scénáře NECP](2019-transition-necp). V tomto velmi těsném rámci pak probíhala optimalizace výroby elektřiny podle nejnižších nákladů.
 
 Tento scénář vedl k velmi pomalu klesajícímu instalovanému výkonu uhelných elektráren, k pomalu klesajícímu čistému exportu (5,8 TWh) a k nižšímu poměru výroby z obnovitelných zdrojů (18,6 %).
 
-Pro srovnání, [scénář BloombergNEF](2020-scenar-bloombergnef) také nevyžaduje uhelný phase-out, ale přichází k jiným výsledkům primárně díky větší flexibilitě ve výstavbě plynových, solárních a hlavně větrných elektráren.
+Pro srovnání, [scénář BloombergNEF](2020-transition-bloombergnef) také nevyžaduje uhelný phase-out, ale přichází k jiným výsledkům primárně díky větší flexibilitě ve výstavbě plynových, solárních a hlavně větrných elektráren.
 
 ### Scénář s bateriemi
 

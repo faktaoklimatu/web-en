@@ -17,16 +17,26 @@ caption:    "Klimatická změna není jen nárůst teploty – jde o souhrnný p
     slug="emise-fosilni-paliva"
 %}
 
-* Lidská činnost v čele se **spalováním fosilních paliv** (uhlí, ropy a zemního plynu) vede ke zvyšování koncentrace oxidu uhličitého (CO<sub>2</sub>) v atmosféře. Ročně se ho v energetice, dopravě a průmyslu vyprodukuje asi 35 miliard tun, odlesňování přidá dalších 5 miliard tun. Na průměrného obyvatele planety tedy připadá asi 5 tun CO<sub>2</sub> ročně. Lidská činnost tak vede k nárůstu koncentrací CO<sub>2</sub> v atmosféře (viz [Cykly koncentrací CO<sub>2</sub> a O<sub>2</sub> v atmosféře](/infografiky/cykly-koncentrace-co2)). Mezi skleníkové plyny patří kromě CO<sub>2</sub> také metan (CH<sub>4</sub>) a oxid dusný (N<sub>2</sub>O), které vznikají v zemědělství při chovu dobytka, pěstování rýže či používání průmyslových hnojiv.
+* Lidská činnost v čele se **spalováním fosilních paliv** (uhlí, ropy a zemního plynu) vede ke zvyšování koncentrace oxidu uhličitého (CO<sub>2</sub>) v atmosféře. Ročně se ho v energetice, dopravě a průmyslu vyprodukuje asi 35 miliard tun, odlesňování přidá dalších 5 miliard tun. Na průměrného obyvatele planety tedy připadá asi 5 tun CO<sub>2</sub> ročně. Lidská činnost tak vede k nárůstu koncentrací CO<sub>2</sub> v atmosféře.
+{% comment %}
+(viz [Cykly koncentrací CO<sub>2</sub> a O<sub>2</sub> v atmosféře](/infografiky/cykly-koncentrace-co2)). 
+{% endcomment %}
+Mezi skleníkové plyny patří kromě CO<sub>2</sub> také metan (CH<sub>4</sub>) a oxid dusný (N<sub>2</sub>O), které vznikají v zemědělství při chovu dobytka, pěstování rýže či používání průmyslových hnojiv.
 
+{% comment %}
 {% include preview-box.html
     title="Koncentrace CO<sub>2</sub> od roku 1960"
     text="Keelingova křivka ukazuja kolísání koncentrací CO<sub>2</sub> v průběhu roku i dlouhodobý nárůst způsobený spalováním fosilních paliv."
     slug="cykly-koncentrace-co2"
 %}
+{% endcomment %}
+
 * **Vyšší koncentrace CO<sub>2</sub>** a dalších skleníkových plynů v atmosféře vedou k silnějšímu skleníkovému efektu. Tepelné záření, které by jinak planeta Země  vyzářila do vesmíru, je skleníkovými plyny pohlceno a vráceno zpět k povrchu. Země se proto otepluje.
 
-* Zesílený skleníkový efekt vede k **oteplování vzduchu** i vody v oceánech. Od průmyslové revoluce narostly teploty vzduchu v průměru o 1,2 °C, ale většinu tepla pohltila voda v oceánech, jejíž teplota také dlouhodobě narůstá. Změna teploty je různá v různých místech – severní polární oblasti se oteplují čtyřikrát rychleji než oceány (viz [Mapa změny teploty](/infografiky/mapa-zmeny-teploty)).
+* Zesílený skleníkový efekt vede k **oteplování vzduchu** i vody v oceánech. Od průmyslové revoluce narostly teploty vzduchu v průměru o 1,2 °C, ale většinu tepla pohltila voda v oceánech, jejíž teplota také dlouhodobě narůstá. Změna teploty je různá v různých místech – severní polární oblasti se oteplují čtyřikrát rychleji než oceány.
+{% comment %}
+ (viz [Mapa změny teploty](/infografiky/mapa-zmeny-teploty)).
+{% endcomment %}
 
 * Oteplení planety vede k častějším vlnám veder, silnějším hurikánům, závažnějším a delším suchým obdobím, ale také k silnějším dešťům a povodním – tedy k častějšímu výskytu **extrémních jevů**.
 

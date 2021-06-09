@@ -17,7 +17,9 @@ data-orig:  [["Ember (výroba a spotřeba elektřiny)", "https://ember-climate.o
 * Graf znázorňuje **množství vyrobené elektřiny na osobu podle jednotlivých zdrojů v letech 2000–2019** ve všech členských státech Evropské unie a ve Velké Británii. Hodnoty jsou uváděné v **<glossary id="w">kWh</glossary> vyrobené (a spotřebované) elektřiny na osobu za rok**.
 * Výroba elektřiny je také doplněna o průměrnou spotřebu, která **v roce 2019 v celé Evropské unii byla 6 259 kWh na osobu**. Graf ukazuje, jak se tato průměrná spotřeba liší v jednotlivých členských státech a jak se tato spotřeba vyvíjí v čase. Rozdíl mezi průměrnou výrobou a průměrnou spotřebou představuje dovoz a vývoz elektřiny.
 * Ostatní fosilní paliva zahrnují především zemní plyn, obnovitelné zdroje obsahují solární, větrné i vodní elektrárny, výrobu elektřiny z biomasy, bioplynu a ze spalování odpadu.
+{% comment %}
 * Podobné srovnání výroby elektřiny na osobu z jednotlivých zdrojů pro celý svět a hlavní regiony nabízí infografika [Výroba elektřiny na osobu ve světových regionech](/infografiky/elektrina-na-osobu-svet).
+{% endcomment %}
 
 ## Komentáře ke grafu
 
@@ -32,5 +34,7 @@ data-orig:  [["Ember (výroba a spotřeba elektřiny)", "https://ember-climate.o
 ## Zdroj dat
 
 * Infografika je založená na datech o výrobě a spotřebě elektřiny od organizace [Ember](https://ember-climate.org/) (dříve nazývaný Sandbag). Jedná se o nezávislý klimatický think-tank, zaměřený na podporu přechodu od uhlí k čistým zdrojům elektřiny. Ember vychází především z dat Eurostatu (pro roky 2000–2017), novější data byla doplněna z národních a dalších zdrojů.
+{% comment %}
 * Jednou z hlavních činností think-tanku Ember je publikování zpráv o výrobě elektřiny v Evropské unii, v roce 2020 publikoval také zprávu o globální výrobě elektřiny, jejíž shrnutí naleznete [ve studiích](/studie/2020-globalni-zprava-o-elektrine).
+{% endcomment %}
 * Data o populaci jsou převzata od Organizace spojených národů.

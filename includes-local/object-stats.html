@@ -1,0 +1,26 @@
+{%- if include.tag -%}
+{%- assign num_infographics = site.infographics | where_exp: "item", "item.tags contains include.tag" | size -%}
+{%- assign num_explainers = site.explainers | where_exp: "item", "item.tags contains include.tag" | size -%}
+{%- assign num_studies = site.studies | where_exp: "item", "item.tags contains include.tag" | size -%}
+{%- assign num_datasets = site.datasets | where_exp: "item", "item.tags contains include.tag" | size -%}
+{%- case num_infographics -%}
+    {%- when 0 -%}
+    {%- when 1 -%}1 infographic
+    {%- else -%}{{num_infographics}} infographics
+{%- endcase -%}
+{%- case num_explainers -%}
+    {%- when 0 -%}
+    {%- when 1 -%}, 1 explainer
+    {%- else -%}, {{num_explainers}} explainers
+{%- endcase -%}
+{%- case num_studies -%}
+    {%- when 0 -%}
+    {%- when 1 -%}, 1 study/survey
+    {%- else -%}, {{num_studies}} studies/surveys
+{%- endcase -%}
+{%- case num_datasets -%}
+    {%- when 0 -%}
+    {%- when 1 -%}, 1 dataset
+    {%- else -%}, {{num_infographics}} datasets
+{%- endcase -%}
+{%- endif -%}

@@ -18,14 +18,21 @@ caption:    "Klimatická změna není jen nárůst teploty – jde o souhrnný p
     slug="emise-fosilni-paliva"
 %}
 
-* Human activity, led by the **burning of fossil fuels** (coal, oil, and natural gas), is increasing the concentration of carbon dioxide (CO<sub>2</sub>) in the atmosphere. About 35 billion tonnes of carbon dioxide are produced annually by energy, transport and industry, with deforestation adding another 5 billion tonnes. The average person on the planet therefore accounts for about 5 tonnes of CO<sub>2</sub> per year. Human activity thus leads to an increase in CO<sub>2</sub> concentrations in the atmosphere (see [Cycles of CO<sub>2</sub> and O<sub>2</sub> concentrations in the atmosphere](/infographics/cycles-concentrations-co2)). In addition to CO<sub>2</sub>, greenhouse gases include methane (CH<sub>4</sub>) and nitrous oxide (N<sub>2</sub>O), which are produced in agriculture from livestock farming, rice cultivation, and fertilizer use.
+* Human activity, led by the **burning of fossil fuels** (coal, oil, and natural gas), is increasing the concentration of carbon dioxide (CO<sub>2</sub>) in the atmosphere. About 35 billion tonnes of carbon dioxide are produced annually by energy, transport and industry, with deforestation adding another 5 billion tonnes. The average person on the planet therefore accounts for about 5 tonnes of CO<sub>2</sub> per year. Human activity thus leads to an increase in CO<sub>2</sub> concentrations in the atmosphere.
+{% comment %}
+(see [Cycles of CO<sub>2</sub> and O<sub>2</sub> concentrations in the atmosphere](/infographics/cycles-concentrations-co2)).
+{% endcomment %}
+In addition to CO<sub>2</sub>, greenhouse gases include methane (CH<sub>4</sub>) and nitrous oxide (N<sub>2</sub>O), which are produced in agriculture from livestock farming, rice cultivation, and fertilizer use.
 {% include preview-box.html
     title="Koncentrace CO<sub>2</sub> od roku 1960"
     text="Keelingova křivka ukazuja kolísání koncentrací CO<sub>2</sub> v průběhu roku i dlouhodobý nárůst způsobený spalováním fosilních paliv."
     slug="cykly-koncentrace-co2"
 %}
 * **Higher concentrations of CO<sub>2</sub>** and other greenhouse gases in the atmosphere lead to a stronger greenhouse effect. The heat radiation that the Earth would otherwise radiate into space is absorbed by greenhouse gases and returned to the surface. The Earth is therefore warming.
-* The amplified greenhouse effect leads to **warming of the air** and the water in the oceans. Since the Industrial Revolution, air temperatures have risen by an average of 1.2°C, but most of the heat has been absorbed by ocean water, which has also been rising in temperature for a long time. Temperature change varies from place to place - the northern polar regions are warming four times faster than the oceans (see [Temperature change map](/infographics/temperature-change-map)).
+* The amplified greenhouse effect leads to **warming of the air** and the water in the oceans. Since the Industrial Revolution, air temperatures have risen by an average of 1.2°C, but most of the heat has been absorbed by ocean water, which has also been rising in temperature for a long time. Temperature change varies from place to place - the northern polar regions are warming four times faster than the oceans.
+{% comment %}
+(see [Temperature change map](/infographics/temperature-change-map))
+{% endcomment %}
 * A warming planet leads to more frequent heat waves, stronger hurricanes, more severe and longer droughts, but also more heavy rains and floods - i.e. more frequent **extreme events**.
 {% include preview-box.html
     text="Okyselování oceánů a zvyšující se teplota vody způsobují vymírání korálů."

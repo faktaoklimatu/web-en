@@ -10,57 +10,40 @@ tags-topics: [ klima ]
 caption:    "Klimatická změna není jen nárůst teploty – jde o souhrnný pojem pro řadu vzájemně provázaných jevů. Změna jednoho faktoru, například zvýšení koncentrace CO<sub>2</sub> v atmosféře, vyvolává dlouhý řetězec příčin a následků."
 ---
 
-## Základní výklad (Jak číst tento graf?)
+## Basic interpretation (How to read this chart?)
+
 {% include preview-box.html
     title="Emise CO<sub>2</sub> ze spalování uhlí, ropy a plynu"
     text="Lidstvo ročně spálí asi 8 miliard tun uhlí, 5 miliard tun ropy a asi 3 miliardy tun zemního plynu."
     slug="emise-fosilni-paliva"
 %}
 
-* Lidská činnost v čele se **spalováním fosilních paliv** (uhlí, ropy a zemního plynu) vede ke zvyšování koncentrace oxidu uhličitého (CO<sub>2</sub>) v atmosféře. Ročně se ho v energetice, dopravě a průmyslu vyprodukuje asi 35 miliard tun, odlesňování přidá dalších 5 miliard tun. Na průměrného obyvatele planety tedy připadá asi 5 tun CO<sub>2</sub> ročně. Lidská činnost tak vede k nárůstu koncentrací CO<sub>2</sub> v atmosféře.
-{% comment %}
-(viz [Cykly koncentrací CO<sub>2</sub> a O<sub>2</sub> v atmosféře](/infografiky/cykly-koncentrace-co2)). 
-{% endcomment %}
-Mezi skleníkové plyny patří kromě CO<sub>2</sub> také metan (CH<sub>4</sub>) a oxid dusný (N<sub>2</sub>O), které vznikají v zemědělství při chovu dobytka, pěstování rýže či používání průmyslových hnojiv.
-
-{% comment %}
+* Human activity, led by the **burning of fossil fuels** (coal, oil, and natural gas), is increasing the concentration of carbon dioxide (CO<sub>2</sub>) in the atmosphere. About 35 billion tonnes of carbon dioxide are produced annually by energy, transport and industry, with deforestation adding another 5 billion tonnes. The average person on the planet therefore accounts for about 5 tonnes of CO<sub>2</sub> per year. Human activity thus leads to an increase in CO<sub>2</sub> concentrations in the atmosphere (see [Cycles of CO<sub>2</sub> and O<sub>2</sub> concentrations in the atmosphere](/infographics/cycles-concentrations-co2)). In addition to CO<sub>2</sub>, greenhouse gases include methane (CH<sub>4</sub>) and nitrous oxide (N<sub>2</sub>O), which are produced in agriculture from livestock farming, rice cultivation, and fertilizer use.
 {% include preview-box.html
     title="Koncentrace CO<sub>2</sub> od roku 1960"
     text="Keelingova křivka ukazuja kolísání koncentrací CO<sub>2</sub> v průběhu roku i dlouhodobý nárůst způsobený spalováním fosilních paliv."
     slug="cykly-koncentrace-co2"
 %}
-{% endcomment %}
-
-* **Vyšší koncentrace CO<sub>2</sub>** a dalších skleníkových plynů v atmosféře vedou k silnějšímu skleníkovému efektu. Tepelné záření, které by jinak planeta Země  vyzářila do vesmíru, je skleníkovými plyny pohlceno a vráceno zpět k povrchu. Země se proto otepluje.
-
-* Zesílený skleníkový efekt vede k **oteplování vzduchu** i vody v oceánech. Od průmyslové revoluce narostly teploty vzduchu v průměru o 1,2 °C, ale většinu tepla pohltila voda v oceánech, jejíž teplota také dlouhodobě narůstá. Změna teploty je různá v různých místech – severní polární oblasti se oteplují čtyřikrát rychleji než oceány.
-{% comment %}
- (viz [Mapa změny teploty](/infografiky/mapa-zmeny-teploty)).
-{% endcomment %}
-
-* Oteplení planety vede k častějším vlnám veder, silnějším hurikánům, závažnějším a delším suchým obdobím, ale také k silnějším dešťům a povodním – tedy k častějšímu výskytu **extrémních jevů**.
-
+* **Higher concentrations of CO<sub>2</sub>** and other greenhouse gases in the atmosphere lead to a stronger greenhouse effect. The heat radiation that the Earth would otherwise radiate into space is absorbed by greenhouse gases and returned to the surface. The Earth is therefore warming.
+* The amplified greenhouse effect leads to **warming of the air** and the water in the oceans. Since the Industrial Revolution, air temperatures have risen by an average of 1.2°C, but most of the heat has been absorbed by ocean water, which has also been rising in temperature for a long time. Temperature change varies from place to place - the northern polar regions are warming four times faster than the oceans (see [Temperature change map](/infographics/temperature-change-map)).
+* A warming planet leads to more frequent heat waves, stronger hurricanes, more severe and longer droughts, but also more heavy rains and floods - i.e. more frequent **extreme events**.
 {% include preview-box.html
     text="Okyselování oceánů a zvyšující se teplota vody způsobují vymírání korálů."
     slug="vymirani-koralovych-utesu"
-%} 
-* Atmosférický CO<sub>2</sub> se částečně rozpouští v oceánu, kde vytváří kyselinu uhličitou. To vede k poklesu pH, neboli **okyselování oceánů**. To je nebezpečné pro korály a jiné mořské živočichy.
+%}
+* Atmospheric CO<sub>2</sub> partially dissolves in the ocean to form carbonic acid. This leads to a drop in pH, or **ocean acidification**. This is dangerous for corals and other marine animals.
+* Higher sea water temperatures are causing the area and thickness of the sea ice in the Arctic Ocean to shrink. In September 1979, the volume of ice in the Arctic Ocean was about 17,000 km<sup>3</sup>; in September 2017, it was only 5,000 km<sup>3</sup>. It is expected that around 2050 will be the first summer in which the entire Arctic Ocean will thaw.
+* **World ocean levels** are rising at a rate of 3.3 cm per decade. About half of this is due to **land glaciers melting**, the other half is due to warming seawater - like any other material, seawater increases in volume with temperature.
+* Rising temperatures are also behind the melting of mountain glaciers in the Alps, Himalayas, Andes and other mountain ranges around the world. This will have a major impact on agriculture and water supplies, as rivers in many areas of the world are fed by melting mountain glaciers.
 
+## A more detailed discussion of the scheme and some of its simplifications
 
-* Vyšší teploty mořské vody způsobují zmenšování plochy a tloušťky mořského zámrzu v Severním ledovém oceánu. V září 1979 byl objem ledu v Severním ledovém oceánu asi 17 000 km<sup>3</sup>, v září roku 2017 již jen 5 000 km<sup>3</sup>. Očekává se, že kolem roku 2050 přijdou první léta, během kterých rozmrzne celý Severní ledový oceán.
+This diagram is intended to provide a basic orientation to the issue of ongoing climate change and therefore cannot show the full complexity of the problem. We therefore mention here in more detail aspects in which the scheme is simplistic or which require further comment.
 
-* **Hladina světových oceánů** se zvyšuje rychlostí 3,3 cm za desetiletí. Z toho asi polovinu způsobuje **tání pevninských ledovců**, druhou polovinu nárůstu hladin má na svědomí oteplování mořské vody – jako každý jiný materiál, i mořská voda zvětšuje s teplotou svůj objem.
-
-* Zvyšující se teploty stojí rovněž za táním horských ledovců v Alpách, Himalájích, Andách a dalších světových pohořích. To bude mít zásadní dopad na zemědělství a zásoby vody, neboť v mnoha oblastech světa jsou řeky napájeny z tajících horských ledovců.
-
-## Podrobnější diskuse schématu a jeho některých zjednodušení
-
-Toto schéma má sloužit k základní orientaci v problematice probíhající klimatické změny a nemůže tedy ukazovat úplnou komplexnost problému. Zde proto podrobněji zmíníme aspekty, ve kterých je schéma zjednodušující nebo které vyžadují další komentář.
-
-* Schéma zachycuje dlouhodobý pohled (*klima*) a nevěnuje se krátkodobým změnám (*počasí*). Stejně tak schéma neukazuje dynamickou povahu proudění v atmosféře a oceánech, která zásadně ovlivňuje distribuci tepla a srážek. K podrobnějšímu zachycení dynamické povahy jsou potřeba počítačové modely klimatu, které modelují časový vývoj atmosférických a oceánských proudění i jejich interakce. Ve schématu je toto dynamické ovlivňování pouze naznačeno oboustrannou šipkou mezi teplotami vzduchu teplotami oceánů.
-* Schéma neukazuje tzv. cyklické zpětné vazby, jako například [*Ice-Albedo feedback*](https://en.wikipedia.org/wiki/Ice%E2%80%93albedo_feedback), kdy roztátí mořského ledu vede k odhalení volné hladiny, která pohlcuje více slunečního záření a tedy způsobuje zvýšení teploty vody a další tání ledu. Tato zpětná vazba je pouze naznačena oboustrannou šipkou. Jako vhodný rozcestník mohou posloužit třeba stránky anglické Wikipedie o [zpětných vazbách v klimatickém systému](https://en.wikipedia.org/wiki/Climate_change_feedback).
-* Oxid uhličitý v průmyslu vzniká jednak spalováním fosilních paliv při zahřívání (tavení, destilace, sušení apod.) a jednak při některých chemických reakcích např. při výrobě cementu nebo železa. Pokud se emise třídí podle těchto kritérií, pak například část emisí z výroby cementu bude započítána jako "průmyslové procesy", zatímco druhá část, která souvisí se zahříváním na vysokou teplotu, bude započítána jako "spalování v průmyslu".
-* Častým argumentem zpochybňujícím lidský vliv na klima je, že nejsilnější skleníkový plyn je obyčejná vodní pára. To je pravda. Množství vodní páry v atmosféře je ale také ovlivňováno lidskou činností, byť nepřímo. Cyklus vodní páry je řízen teplotou, která je ovlivňována ostatními skleníkovými plyny vypouštěnými člověkem. Ve výpočtech síly skleníkového efektu a citlivosti klimatu je vliv vodní páry započítán.
+* The scheme takes a long-term view (*climate*) and does not address short-term changes (*weather*). Similarly, the scheme does not show the dynamic nature of the flow in the atmosphere and oceans, which fundamentally affects the distribution of heat and precipitation. Computer climate models that model the temporal evolution of atmospheric and oceanic flows and their interactions are needed to capture the dynamic nature in more detail. In the diagram, this dynamic forcing is only indicated by the double-sided arrow between air temperatures and ocean temperatures.
+* The diagram does not show so-called cyclic feedbacks, such as [*Ice-Albedo feedback*](https://en.wikipedia.org/wiki/Ice%E2%80%93albedo_feedback), where melting sea ice leads to the exposure of open water, which absorbs more solar radiation and thus causes an increase in water temperature and further ice melt. This feedback is only indicated by the double-sided arrow. For example, the English Wikipedia page on [feedbacks in the climate system](https://en.wikipedia.org/wiki/Climate_change_feedback) may serve as a useful signpost.
+* Carbon dioxide in industry is produced both by the combustion of fossil fuels during heating (melting, distillation, drying, etc.) and by certain chemical reactions, e.g. in the production of cement or iron. If the emissions are classified according to these criteria, then, for example, part of the emissions from cement production will be counted as 'industrial processes', while the other part, which is related to high temperature heating, will be counted as 'industrial combustion'.
+* A common argument questioning the human impact on climate is that the most potent greenhouse gas is ordinary water vapour. This is true. But the amount of water vapour in the atmosphere is also affected by human activity, albeit indirectly. The water vapour cycle is controlled by temperature, which is influenced by other greenhouse gases emitted by humans. In calculations of the strength of the greenhouse effect and climate sensitivity, the effect of water vapour is accounted for.
 
 ## Odkazy na další zdroje
 

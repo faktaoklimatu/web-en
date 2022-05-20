@@ -1,0 +1,14 @@
+{%- if include.tag -%}
+{%- assign num_infographics = site.infographics | where_exp: "item", "item.tags contains include.tag" | size -%}
+{%- assign num_studies = site.studies | where_exp: "item", "item.tags contains include.tag" | size -%}
+{%- case num_infographics -%}
+    {%- when 0 -%}
+    {%- when 1 -%}1 infographic
+    {%- else -%}{{num_infographics}} infographics
+{%- endcase -%}
+{%- case num_studies -%}
+    {%- when 0 -%}
+    {%- when 1 -%}, 1 study
+    {%- else -%}, {{num_studies}} studies
+{%- endcase -%}
+{%- endif -%}

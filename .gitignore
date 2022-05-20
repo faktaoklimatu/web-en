@@ -1,9 +1,6 @@
 # Temporary files
 *~
 
-# Firebase cache
-.firebase/
-
 # IDE files
 .idea
 .vscode

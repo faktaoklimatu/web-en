@@ -1,15 +1,18 @@
 # Local Jekyll config file (will be appended after master)
 
 # Site settings
+lang: "en"
 title: "Facts on climate"
 url: https://factsonclimate.org
 email: info@factsonclimate.org
 github: faktaoklimatu/web-en
 twitter: "faktaoklimatu"
-newsletter: "https://tinyletter.com/faktaoklimatu/subscribe"
+facebook: "faktaoklimatu"
+linkedin: "68480136"
+newsletter: "9-54057be166928eb6fcc57504dc847797"
 fundraising: "https://www.darujme.cz/projekt/1203742"
 author: factsonclimate.org
-copyright: "&copy; 2021 Otevřená data o klimatu, z. ú."
+copyright: "&copy; 2022 Otevřená data o klimatu, z. ú."
 description: We collect data on climate and climate change provided by scientific institutions and transform them into infographics for further use.
 keywords: climate, climate change, infographics
 
@@ -17,11 +20,15 @@ deploy:
   firebase-project: en-facts-on-climate
   cors-report-uri: https://nkas07xe.uriports.com
 
-# Set permalinks in local language
-collections:
-    pages:
-        output: true
-        permalink: /:title
+slugs:
+  infographics: infographics
+  studies: studies
+  datasets: datasets
+  topics: topics
+  glossary: glossary
+  how-to-use: how-to-use
+  news: news
+  about: about
 
 # Set permalinks in local language
 collections:
@@ -36,12 +43,12 @@ collections:
     title: explainers
     weight: 1
   infographics:
-    output: false
+    output: true
     permalink: /infographics/:title
     title: infographics
     weight: 2
   studies:
-    output: false
+    output: true
     permalink: /studies/:title
     title: studies and surveys
     weight: 3
@@ -51,6 +58,18 @@ collections:
     title: datasets
     weight: 4
 
-# Enable Czech smart quotes
+# Set topic permalinks in local language
+jekyll-archives:
+  enabled: [ "tags" ]
+  layouts:
+    tag: tag
+  permalinks:
+    tag: '/topics/:name/'
+  collections:
+    merge_tags: true
+
+# Enable English smart quotes
 kramdown:
-    smart_quotes: lsquo,rsquo,ldquo,rdquo
+  math_engine: katex
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  footnote_backlink: "↩︎"

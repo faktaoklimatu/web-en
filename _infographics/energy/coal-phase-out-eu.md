@@ -1,0 +1,20 @@
+---
+layout:        infographic
+title:         "Coal phase-out in the EU countries"
+slug:          "coal-phase-out-eu"
+redirect_from: "/coal-phase-out-eu"
+published:     2022-06-06
+weight:        90
+tags-scopes:   [ eu ]
+tags-topics:   [ energy, policies ]
+caption:       "TODO: Fill in the caption"
+data-our:      "https://docs.google.com/spreadsheets/d/1uLijA3LFRBn-6V26g2iLkRupLiln3333uhhNW6A4OLg/edit?usp=sharing"
+data-orig:
+  - [ "Ember (výroba a spotřeba elektřiny)", "https://ember-climate.org/project/data-global-electricity-review/" ]
+  - [ "Europe Beyond Coal (termíny phase-outů)", "https://beyond-coal.eu/coal-exit-tracker/?type=maps&layer=4" ]
+  - [ "OSN (populace)", "https://population.un.org/wpp/Download/Files/1_Indicators%20(Standard)/EXCEL_FILES/1_Population/WPP2019_POP_F01_1_TOTAL_POPULATION_BOTH_SEXES.xlsx" ]
+---
+
+_The accompanying text for this infographic is [only available in Czech](https://faktaoklimatu.cz/infografiky/uhelny-phaseout-eu) at the moment. Check back later for the English translation._
+
+_If you wish to see the English translation sooner, please contact us at [info@faktaoklimatu.cz](mailto:info@faktaoklimatu.cz) or consider [supporting us financially](https://www.darujme.cz/projekt/1203742)._

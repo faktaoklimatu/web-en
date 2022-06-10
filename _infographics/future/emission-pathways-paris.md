@@ -7,7 +7,7 @@ published:     2022-06-06
 weight:        90
 tags-scopes:   [ world ]
 tags-topics:   [ future, emissions, policies ]
-caption:       "TODO: Fill in the caption"
+caption:       "If we are to keep the rise in mean global temperature below levels that will not cause a large-scale destruction of the environment, we must substantially reduce our greenhouse gas emissions. The pathways aiming to limit the increase of global temperature below 1.5°C (above pre-industrial levels) expect human emissions of CO2 to be cut in half by 2030 and net zero to be achieved by 2050. Staying below 2°C would require these emissions to be reduced by 25% by 2030 and net zero to be reached around 2070."
 data-our:      "https://docs.google.com/spreadsheets/d/19PiqYV6FkttzrNcjkbTQmphzxgydtTc1MB6nDZpybj0/edit?usp=sharing"
 data-orig:
   - [ "Global Carbon Budget", "https://www.icos-cp.eu/science-and-impact/global-carbon-budget/2020" ]

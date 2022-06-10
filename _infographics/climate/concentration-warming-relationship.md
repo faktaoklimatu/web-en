@@ -7,7 +7,7 @@ published:     2022-06-06
 weight:        90
 tags-scopes:   [ world ]
 tags-topics:   [ climate ]
-caption:       "TODO: Fill in the caption"
+caption:       "Historical data as well as future climate models show that global warming is (approximately) directly proportional to the increase of CO2 concentrations in the atmosphere. More specifically: every time the CO2 concentrations rise by 10 ppm (parts per million), the mean global temperature increases by 0.1°C."
 data-our:      "https://docs.google.com/spreadsheets/d/1aVn3Uz1wLUtmATagtZHEpeayiee6uy_BRAivZPwfb2s/edit?usp=sharing"
 data-orig:
   - [ "Zdrojová data NASA", "https://data.giss.nasa.gov/gistemp/" ]

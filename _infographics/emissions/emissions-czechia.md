@@ -7,7 +7,7 @@ published:     2022-06-06
 weight:        50
 tags-scopes:   [ cz ]
 tags-topics:   [ emissions ]
-caption:       "TODO: Fill in the caption"
+caption:       "Distribution of greenhouse gas emissions (in tonnes of CO2 equivalent) in Czechia per year and sector. In 2018, the country's total annual emissions were 129.39 million tonnes, which was 12.19t CO2eq per capita."
 ---
 
 _The accompanying text for this infographic is [only available in Czech](https://faktaoklimatu.cz/infografiky/emise-cr-detail) at the moment. Check back later for the English translation._

@@ -7,7 +7,7 @@ published:     2022-06-06
 weight:        80
 tags-scopes:   [ world ]
 tags-topics:   [ climate ]
-caption:       "TODO: Fill in the caption"
+caption:       "Climate change is not just a change of temperature – this umbrella term covers a number of interrelated phenomena. The change of one factor (e.g. higher concentrations of CO2 in the atmosphere) results in a long causal chain."
 ---
 
 _The accompanying text for this infographic is [only available in Czech](https://faktaoklimatu.cz/infografiky/schema-klimaticke-zmeny) at the moment. Check back later for the English translation._

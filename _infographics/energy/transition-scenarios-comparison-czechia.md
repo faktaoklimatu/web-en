@@ -7,7 +7,7 @@ published:     2022-06-06
 weight:        73
 tags-scopes:   [ cz ]
 tags-topics:   [ energy, policies ]
-caption:       "TODO: Fill in the caption"
+caption:       "This infographic provides a comparison of four recent transition scenarios for electricity production in Czechia by 2030. Each of these pathways has a strikingly different impact on reducing greenhouse gas emissions that are related to electricity generation. The scenarios also focus on different things and use different methodologies."
 data-our:      "https://docs.google.com/spreadsheets/d/14CB428mF-_iHTgrLb2Dd0zJZ4xHUMdGhbr_FZ2fZy6k/edit"
 data-orig:
   - [ "Ember", "https://ember-climate.org/project/coal-free-czechia-2030/" ]

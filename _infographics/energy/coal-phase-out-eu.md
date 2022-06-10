@@ -7,7 +7,7 @@ published:     2022-06-06
 weight:        90
 tags-scopes:   [ eu ]
 tags-topics:   [ energy, policies ]
-caption:       "TODO: Fill in the caption"
+caption:       "Coal phase-out plans in the EU countries at the end of January 2022. The amount of electricity produced from coal in each country is provided in kWh per person per year."
 data-our:      "https://docs.google.com/spreadsheets/d/1uLijA3LFRBn-6V26g2iLkRupLiln3333uhhNW6A4OLg/edit?usp=sharing"
 data-orig:
   - [ "Ember (výroba a spotřeba elektřiny)", "https://ember-climate.org/project/data-global-electricity-review/" ]

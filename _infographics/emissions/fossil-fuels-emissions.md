@@ -7,7 +7,7 @@ published:     2022-06-06
 weight:        95
 tags-scopes:   [ world ]
 tags-topics:   [ emissions, energy ]
-caption:       "TODO: Fill in the caption"
+caption:       "Global CO2 emissions from coal, crude oil and natural gas combustion have increased fourfold over the past 60 years. These emissions will have to be reduced to almost zero if we are to achieve carbon neutrality."
 data-our:      "https://docs.google.com/spreadsheets/d/19PiqYV6FkttzrNcjkbTQmphzxgydtTc1MB6nDZpybj0/edit?usp=sharing"
 data-orig:
   - [ "Global Carbon Budget", "https://www.icos-cp.eu/science-and-impact/global-carbon-budget/2020" ]

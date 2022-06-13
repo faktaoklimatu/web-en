@@ -13,6 +13,6 @@ data-orig:
   - [ "IPCC SR15 kapitola 3", "https://www.ipcc.ch/sr15/chapter/chapter-3" ]
 ---
 
-_The accompanying text for this infographic is [only available in Czech](https://faktaoklimatu.cz/infografiky/body-zlomu-2) at the moment. Check back later for the English translation._
+_Our comments on this infographic providing relevant context and useful links are [only available in Czech](https://faktaoklimatu.cz/infografiky/body-zlomu-2) at the moment. Please check back later for the English translation._
 
 _If you wish to see the English translation sooner, please contact us at [info@faktaoklimatu.cz](mailto:info@faktaoklimatu.cz) or consider [supporting us financially](https://www.darujme.cz/projekt/1203742)._

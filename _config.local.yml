@@ -30,6 +30,7 @@ slugs:
   news: news
   about: about
 
+collections_dir: collections
 # Set permalinks in local language
 collections:
   pages:
@@ -57,6 +58,8 @@ collections:
     permalink: /datasets/:title
     title: datasets
     weight: 4
+  episodes: # Required by web-core
+    output: false
 
 # Set topic permalinks in local language
 jekyll-archives:

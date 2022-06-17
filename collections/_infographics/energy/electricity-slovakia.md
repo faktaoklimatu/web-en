@@ -7,7 +7,7 @@ published:     2022-06-06
 weight:        130
 tags-scopes:   [ eu ]
 tags-topics:   [ energy ]
-caption:       "TODO: Fill in the caption"
+caption:       "An overview of electricity generation (by source), related CO2eq emissions and electricity consumption (by sector). While only 20% of Slovak electricity was produced from coal and natural gas in 2019, these two sources are related to the vast majority of emissions from Slovak energy industry."
 data-our:      "https://docs.google.com/spreadsheets/d/1QuTWA4zH6moMBC29JyPXXc3Fi0PXeyCw5nwJR9opAvE/edit?usp=sharing"
 data-orig:
   - [ "Energetika 2019", "https://slovak.statistics.sk:443/wps/portal?urile=wcm:path:/obsah-sk-pub/publikacie/vsetkypublikacie/92027e17-ae10-424c-87c4-e73038aeb9dc" ]

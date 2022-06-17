@@ -7,7 +7,7 @@ published:     2022-06-06
 weight:        120
 tags-scopes:   [ world ]
 tags-topics:   [ energy ]
-caption:       "TODO: Fill in the caption"
+caption:       "Trends in electricity generation from different energy sources globally and in major world regions between 2000 and 2019. The amount of electricity produced is expressed in kWh per capita per year."
 data-our:      "https://docs.google.com/spreadsheets/d/1SQSnRSfTQ5HVxVJvwj4igfl22hyblYVjDo_INceKy4I"
 data-orig:
   - [ "Ember (výroba a spotřeba elektřiny)", "https://ember-climate.org/project/data-global-electricity-review/" ]

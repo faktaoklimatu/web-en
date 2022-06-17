@@ -7,7 +7,7 @@ published:     2022-06-06
 weight:        93
 tags-scopes:   [ eu ]
 tags-topics:   [ energy ]
-caption:       "TODO: Fill in the caption"
+caption:       "Trends in electricity generation (per capita) by source in 2000–2019, compared with electricity consumption in the EU countries and the UK. Expressed in kWh per capita per year."
 data-our:      "https://docs.google.com/spreadsheets/d/1SQSnRSfTQ5HVxVJvwj4igfl22hyblYVjDo_INceKy4I"
 data-orig:
   - [ "Ember (výroba a spotřeba elektřiny)", "https://ember-climate.org/project/data-global-electricity-review/" ]

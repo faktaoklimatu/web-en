@@ -7,7 +7,7 @@ published:     2022-06-06
 weight:        95
 tags-scopes:   [ world ]
 tags-topics:   [ policies, economy ]
-caption:       "TODO: Fill in the caption"
+caption:       "It is not just the European Union that makes greenhouse gas emitters pay – carbon taxes and emission trading systems have also been established in many other countries around the world."
 data-our:      "https://docs.google.com/spreadsheets/d/1uviqyDXF48fg49m9MKZV-ghN_nmoteMqfFgt01ouqjg/edit?usp=sharing"
 data-orig:
   - [ "Zpráva WBG", "https://openknowledge.worldbank.org/handle/10986/31755" ]

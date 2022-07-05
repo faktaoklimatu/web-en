@@ -2,7 +2,7 @@
 
 navigation:
   dev-version: "This is the developer version."
-  dev-differences: "Compared to production, web analytics is missing, cache validity is down to 5 minutes and CSP violations are not sent to URIports."
+  dev-differences: "Compared to production, web analytics is missing, cache validity is down to 5 minutes and CSP violations are not sent to URI ports."
   search:
     empty: "We found nothing"
     failed: "The search does not work. Maybe an Internet connection problem?"
@@ -10,13 +10,13 @@ navigation:
     label: "Search"
 
 footer:
-  get-newsletter: "Subscribe to newsletter (CZ)"
+  get-newsletter: "Subscribe to our newsletter (CZ)"
   support-us: "Support us"
   last-change: "Last change"
   privacy-policy: "Privacy policy"
 
 newsletter:
-  subscribe: "Přihlášení k newsletteru Fakta o klimatu"
+  subscribe: "Subscribe to our newsletter"
 
 licence:
   id: "CC BY 4.0"
@@ -24,10 +24,10 @@ licence:
   link: "https://creativecommons.org/licenses/by/4.0/deed.en"
 
 topic:
-  gauge-source: "Zdroj"
-  nutshell-id: "v-kostce"
-  nutshell-title: "V kostce"
-  map-caption: "Mapa pojmů a konceptů"
+  gauge-source: "Source"
+  nutshell-id: "nutshell"
+  nutshell-title: "In a nutshell"
+  map-caption: "Map of terms and concepts"
 
 text:
   toc: "Table of Contents"
@@ -41,23 +41,23 @@ text:
     source: "Source"
     description: "Description"
     link: "Link"
-    licence: "Licence"
+    licence: "License"
     see: "see"
-    licence-proof: "licence information"
+    licence-proof: "license information"
   explainer:
     explainer: "Explainer"
     source: "Source"
     author: "Author"
-    licence: "Licence"
+    licence: "License"
   related:
     title: "Related infographics and studies"
-    caption: "Interested in our work? Investigate other related infographics and studies:"
+    caption: "Want to see more? Check out for more topic-related infographics and studies:"
     dataset-based: "Infographics based on this dataset"
   index:
     all-news: "Display all news, corrections and updates..."
     all-tag: "Other infographics, studies and datasets on this topic"
   rss:
-    more-online: "Více informací naleznete v plné verzi na našem webu."
+    more-online: "More information is available on our website."
   section-link: "Odkaz na sekci"
 
 sidebar:

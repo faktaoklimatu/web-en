@@ -1,8 +1,8 @@
-# id: používá se v metadatech objektu (tags-scopes, tags-topics)
-# name-short: používá se v zobrazovaných tématech
-# name-long: používá se v nadpisech
-# index-weight: je-li větší než nula, zobrazuje téma na titulní stránce
-# description: používá jako popis tématu
+# id: used in object metadata (tags-scopes, tags-topics)
+# name-short: shown in object cards
+# name-long: used in headings
+# index-weight: show topic on front page is greater than zero
+# description: description of the topic
 
 - id: cz
   name-short: CZ
@@ -23,43 +23,47 @@
   name-short: climate
   name-long: climate indicators
   index-weight: 1
-  description: "Průměrná globální teplota vzduchu od začátku průmyslové revoluce, tedy za posledních 200 let, stoupla o zhruba 1 °C. V České republice za posledních 60 let vzrostla už o 2 °C. Koncentrace CO<sub>2</sub> dosahují hodnot vyšších než kdykoliv během existence rodu *Homo sapiens*."
+  description: |
+    Since the beginning of the Industrial Revolution, i.e. in the last 200 years, the mean global atmospheric temperature has risen by approx. 1.1°C. In the Czech Republic, the temperature is rising faster: 2°C over the last 60 years. The CO<sub>2</sub> concentrations in the atmosphere have never been so high throughout the *Homo sapiens* era.
 
 - id: emissions
   name-short: emissions
   name-long: greenhouse gas emissions
   index-weight: 2
-  # Extra span řeší problém se slovníkovým odkazem na začátku odstavce.
-  description: Skleníkové plyny se dostávají do atmosféry spalováním fosilních paliv a dalšími procesy, jako například produkcí cementu, pěstováním rýže či chovem dobytka. V přepočtu na obyvatele je Česká republika jejich významným producentem, a to nejen v Evropském kontextu.
+  description: |
+    Greenhouse gas emissions in the atmosphere are the result of fossil fuels combustion and other processes, such as cement production, growing rice or keeping livestock. The Czech Republic is a major emitter of greenhouse gases (per capita), not only in the EU but globally.
 
 - id: energy
   name-short: energy
-  name-long: the energy industry
+  name-long: energy industry
   index-weight: 3
-  description: Sektor elektroenergetiky je celosvětově největším zdrojem emisí skleníkových plynů (v roce 2017 tvořil cca 40 % emisí CO<sub>2</sub> a cca 25 % emisí všech skleníkových plynů měřeno v CO<sub>2</sub>eq). Svým dopadem výrazně přesahuje zemědělství stejně jako spalování fosilních paliv v dopravě, spalování fosilních paliv v průmyslu nebo produkci cementu. V rámci elektroenergetiky přes 70 % emisí pochází z uhlí, přes 20 % ze zemního plynu, asi 5 % tvoří deriváty ropy.
+  description: |
+    The electric power industry is the world's biggest source of greenhouse gas emissions (around 40% of CO<sub>2</sub> emissions and approx. 25% of all greenhouse gas emissions expressed in CO<sub>2</sub>eq in 2017). The role that this sector plays in global warming is significantly larger than the impact of farming, fossil fuel combustion in transport and industry or cement production. More than 70% of emissions in this sector come from coal, over 20% from natural gas, and around 5% from oil derivatives.
 
 - id: future
   name-short: future
-  name-long: the future and development scenarios
+  name-long: future development scenarios
   index-weight: 4
-  description: Budoucí vývoj klimatu závisí do velké míry na tom, jak se budou dále vyvíjet emise skleníkových plynů nebo odlesňování. Pro porovnání možných budoucností slouží emisní scénáře RCP. Zároveň větší změna klimatu přináší větší rizika a při překročení bodů zlomu i možnost kolapsu některých ekosystémů a klimatických systémů.
+  description: |
+    What will happen to our climate in the future largely depends on our future greenhouse gas emissions and global deforestation. Possible future scenarios are laid out in the RCP emission pathways. Climate change also brings along great risks – if tipping points are exceeded, some ecosystems and climate systems may collapse.
 
 - id: policies
   name-short: policies
   name-long: policies, documents, treaties
   index-weight: 5
-  # Extra span řeší problém se slovníkovým odkazem na začátku odstavce.
-  description: Snahy řešit klimatickou změnu a její dopady vedou k mezinárodním jednáním a dohodám a k vzniku strategických dokumentů, které vytyčují národní plány a cíle. Také jsou přijímána právně závazná opatření nebo vytvářeny finanční nástroje, jako uhlíková daň nebo systémy pro obchodování s emisními povolenkami, které mají snížit emise skleníkových plynů a zabránit dalšímu zesilování globálního oteplování (tzv. mitigační opatření). Na úrovni regionů nebo měst pak vznikají adaptační opatření, jejichž cílem je region na probíhající klimatickou změnu adaptovat. Typicky může jít o zelené střechy ve městech, zakládání tůní pro udržení vody v krajině nebo zavádění odolnějších plodin v zemědělství.
+  description: |
+    The effort to deal with climate change and its impacts leads to international negotiations, treaties and strategic documents, which are the floor foundation of plans and goals on a national level. They also result in a number of mitigation measures: legally binding acts and new financial tools, such as carbon taxes or emissions trading systems, which are aimed to cut greenhouse gas emissions and prevent further global warming. Regions and municipalities also create their own adaptation plans, hoping these will help them tackle the impacts of climate change: they build green roofs in cities, create ponds and wetlands to retain more water or introduce more resilient crops.
 
 - id: economy
   name-short: economy
-  name-long: the economy
+  name-long: economy
   index-weight: 6
-  description: Klimatická změna je jedním z nezamýšlených důsledků naší hospodářské produkce, neboť právě spalování fosilních paliv při výrobě a přepravě zboží a dalších komodit uvolňuje skleníkové plyny. Mitigační opatření tedy musí nutně ovlivňovat ekonomiku, vhodně navržená opatření v souladu ekonomickými principy mohou vést k efektivnímu a rychlému snížení emisí.
+  description: |
+    Climate change is one of the unintended effects of our economic production – greenhouse gases are emitted during fossil fuels combustion needed for the production and transport of goods and commodities. That is why mitigation measures must have an impact on our economy: with well designed measures that are in line with economic principles, emissions can be reduced quickly and effectively.
 
 - id: nature
   name-short: nature
-  name-long: nature, krajina, ecosystems
+  name-long: nature and ecosystems
   index-weight: 7
-  description: Klimatická změna ovlivňuje celou biosféru a jednotlivé ekosystémy, zároveň v kontextu adaptačních a mitigačních opatření hraje péče o krajinu a ochrana biodiverzity velkou roli. Lužní a nivní lesy pomáhají zadržovat vodu v krajině a podporovat biodiverzitu, výsadba zeleně ve městech pomáhá snižovat teplotu. Zemědělství, lesní hospodářství a další odvětví závisí na zdravých ekosystémech. Přírodní procesy také čistí vodu a vzduch, které jsou pro nás klíčovými životodárnými zdroji.
-
+  description: |
+    While climate change has a major impact on all of biosphere as well as on individual ecosystems, landscape and biodiversity protection also plays a key role in climate change mitigation and adaptation. Forests help retain water and are crucial for biodiversity; trees make hot cities more livable. Agriculture, forest management and other sectors heavily depend on healthy ecosystems. Nature also cleans water and air, which are essential for our lives.

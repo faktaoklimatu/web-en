@@ -12,7 +12,7 @@ data-our:      "https://docs.google.com/spreadsheets/d/1uLijA3LFRBn-6V26g2iLkRup
 data-orig:
   - [ "Ember (electricity production and consumption)", "https://ember-climate.org/project/data-global-electricity-review/" ]
   - [ "Europe Beyond Coal (phase-out dates)", "https://beyond-coal.eu/coal-exit-tracker/?type=maps&layer=4" ]
-  - [ "OSN (population)", "https://population.un.org/wpp/Download/Files/1_Indicators%20(Standard)/EXCEL_FILES/1_Population/WPP2019_POP_F01_1_TOTAL_POPULATION_BOTH_SEXES.xlsx" ]
+  - [ "UN (population)", "https://population.un.org/wpp/Download/Files/1_Indicators%20(Standard)/EXCEL_FILES/1_Population/WPP2019_POP_F01_1_TOTAL_POPULATION_BOTH_SEXES.xlsx" ]
 ---
 
 _Our comments on this infographic providing relevant context and useful links are [only available in Czech](https://faktaoklimatu.cz/infografiky/uhelny-phaseout-eu) at the moment. Please check back later for the English translation._

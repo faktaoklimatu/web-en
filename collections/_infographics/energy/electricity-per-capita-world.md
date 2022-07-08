@@ -10,8 +10,8 @@ tags-topics:   [ energy ]
 caption:       "Trends in electricity generation from different energy sources globally and in major world regions between 2000 and 2019. The amount of electricity produced is expressed in kWh per capita per year."
 data-our:      "https://docs.google.com/spreadsheets/d/1SQSnRSfTQ5HVxVJvwj4igfl22hyblYVjDo_INceKy4I"
 data-orig:
-  - [ "Ember (výroba a spotřeba elektřiny)", "https://ember-climate.org/project/data-global-electricity-review/" ]
-  - [ "OSN (populace)", "https://population.un.org/wpp/Download/Files/1_Indicators%20(Standard)/EXCEL_FILES/1_Population/WPP2019_POP_F01_1_TOTAL_POPULATION_BOTH_SEXES.xlsx" ]
+  - [ "Ember (electricity production and consumption)", "https://ember-climate.org/project/data-global-electricity-review/" ]
+  - [ "OSN (population)", "https://population.un.org/wpp/Download/Files/1_Indicators%20(Standard)/EXCEL_FILES/1_Population/WPP2019_POP_F01_1_TOTAL_POPULATION_BOTH_SEXES.xlsx" ]
 ---
 
 _Our comments on this infographic providing relevant context and useful links are [only available in Czech](https://faktaoklimatu.cz/infografiky/elektrina-na-osobu-svet) at the moment. Please check back later for the English translation._

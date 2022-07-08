@@ -12,7 +12,7 @@ data-our:      "https://docs.google.com/spreadsheets/d/14CB428mF-_iHTgrLb2Dd0zJZ
 data-orig:
   - [ "Ember", "https://ember-climate.org/project/coal-free-czechia-2030/" ]
   - [ "Energynautics", "https://en.frankbold.org/sites/default/files/publikace/czech_grid_without_coal_by_2030_fin_0.pdf" ]
-  - [ "Energynautics (navazující studie)", "https://frankbold.org/sites/default/files/publikace/sensitivity_analysis_czech_grid_without_coal_by_2030.pdf" ]
+  - [ "Energynautics (follow-up study)", "https://frankbold.org/sites/default/files/publikace/sensitivity_analysis_czech_grid_without_coal_by_2030.pdf" ]
   - [ "BloombergNEF", "https://data.bloomberglp.com/professional/sites/24/BNEF-white-paper-EU-coal-transition-Final-6-July.pdf" ]
   - [ "NECP", "https://www.mpo.cz/cz/energetika/strategicke-a-koncepcni-dokumenty/vnitrostatni-plan-ceske-republiky-v-oblasti-energetiky-a-klimatu--252016/" ]
 ---

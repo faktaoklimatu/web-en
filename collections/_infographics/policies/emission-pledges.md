@@ -9,7 +9,7 @@ tags-scopes:   [ world ]
 tags-topics:   [ policies, emissions ]
 caption:       "The 131 countries that have pledged so far to achieve net zero produce over 87% of global carbon dioxide emissions. Countries with no such commitment produce 9 % of global emissions. The remaining 3.5% emissions come from international aviation and shipping."
 data-orig:
-  - [ "Náš Jupyter notebook", "https://github.com/faktaoklimatu/data-analysis/blob/master/notebooks/net-zero-pledges.ipynb" ]
+  - [ "Our Jupyter notebook", "https://github.com/faktaoklimatu/data-analysis/blob/master/notebooks/net-zero-pledges.ipynb" ]
 ---
 
 _Our comments on this infographic providing relevant context and useful links are [only available in Czech](https://faktaoklimatu.cz/infografiky/emisni-zavazky) at the moment. Please check back later for the English translation._

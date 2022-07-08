@@ -7,16 +7,7 @@ published:     2022-06-06
 weight:        91
 tags-scopes:   [ cz ]
 tags-topics:   [ energy, policies ]
-caption:       "This study by Ember explores how much the Czech electricity generation industry could change by 2030. Specifically, it focuses on the scenario in which all the coal power plants and heating plants in the country are shut down – what would then be the most cost-effective way to build and run new power plants? The study shows that even a very ambitious plan like this one is doable but it would require solar, wind and backup natural gas power plants to be built much faster than they are now. 
-
-KE STAŽENÍ
-Líbí se vám naše infografika? Stáhněte si ji a používejte dál! (Který formát vybrat?)
-
-PODKLADOVÁ DATA
-Chcete vidět konkrétní čísla? Podívejte se na naši tabulku s daty nebo na původní zdroje.
-
-SDÍLENÍ A LICENCE
-Všechny naše infografiky jsou k dispozici pro další použití pod licencí CC BY 4.0. (Jak správně použít?)"
+caption:       "This study by Ember explores how much the Czech electricity generation industry could change by 2030. Specifically, it focuses on the scenario in which all the coal power plants and heating plants in the country are shut down – what would then be the most cost-effective way to build and run new power plants? The study shows that even a very ambitious plan like this one is doable but it would require solar, wind and backup natural gas power plants to be built much faster than they are now."
 data-our:      "https://docs.google.com/spreadsheets/d/14CB428mF-_iHTgrLb2Dd0zJZ4xHUMdGhbr_FZ2fZy6k/edit"
 data-orig:
   - [ "Summary", "https://ember-climate.org/app/uploads/2022/02/Summary_Coal-Free-Czechia-2030.pdf" ]

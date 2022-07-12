@@ -4,45 +4,49 @@ title: Privacy policy
 slug: gdpr
 ---
 {:.lead}
-Vytvořené v souladu s platnou legislativou a Nařízením Evropského parlamentu a Rady (EU) 2016/679 o ochraně fyzických osob v souvislosti se zpracováním osobních údajů a o volném pohybu těchto údajů. Platné od 6. října 2020.
+Created in compliance with applicable legislation and Regulation (EU) 2016/679 of the European Parliament and Council on the protection of natural persons with regard to the processing of personal data and on the free movement of such data. This Privacy Policy is valid as of 6 October 2020.
 
 ## Data processor
 
-Správcem osobních údajů je organizace Otevřená data o klimatu, z. ú., se sídlem Výletní 593/7, 623 00 Brno – Kohoutovice, ID: 095 55 587, zapsaná v rejstříku ústavů vedeném Krajským soudem v Brně, spisová značka U 300.
+Your personal data is processed by Otevřená data o klimatu, z. ú., registered at the Regional Court in Brno, file number U 300.
 
-Kontaktní osoba pro ochranu osobních údajů: Anna Macková. V případě dotazů pište prosím na [gdpr@faktaoklimatu.cz](mailto:gdpr@faktaoklimatu.cz)
+Address: Cyrilská 7, 602 00 Brno, ID: 095 55 587
 
-## Účel zpracování osobních údajů
+Contact person: Anna Macková 
 
-Správce zpracovává osobní údaje za účelem plnění smlouvy, za účelem plnění právní povinnosti, za účelem oprávněného zájmu správce nebo za účelem uvedeným při udělení osobního souhlasu. Osobní údaje správce získává přímo od subjektů údajů, případně od zprostředkovatele darovacího procesu.
+If you have any questions, please email us at [gdpr@faktaoklimatu.cz](mailto:gdpr@faktaoklimatu.cz).
 
-### How we process your data when receiving a gift from you
+## Purposes of data processing
 
-Osobní údaje zpracováváme na základě plnění smlouvy a oprávněného zájmu správce. Při poskytnutí nebo přislíbení daru budete zařazeni do databáze dárců. V této databázi archivujeme informace o výši a četnosti poskytnutého daru a dále osobní údaje dárce (jméno, příjmení, bydliště, e-mailová adresa). Darování probíhá přes darovací portál Darujme.cz, který je provozován naším smluvním partnerem. Ten se zavazuje využívat vámi vyplněné informace pouze v rozsahu nutném pro zpracování daru a uzavření darovací smlouvy. Tyto údaje pak poskytuje naší organizaci Otevřená data o klimatu. Bankovní údaje o platbě, číslo účtu nebo údaje z platební karty předáváte pouze bance, která transakci zprostředkovává.
+We process your personal data for the performance of the contract, for compliance with legal obligations, for our legitimate interest and for the purpose specified when your consent was given. We obtain your personal data directly from you or from Darujme.cz (see below).
 
-We process your personal data to účelem plnění právní povinnosti (vedení účetnictví, vydávání potvrzení o darech, zveřejnění celkové výše přijatých darů ve výroční zprávě a dalších materiálech) a za účelem oprávněného zájmu správce (poděkování spolu s informací pro vás o využití vašeho daru, informace o dění v organizaci, zasílání žádostí o podporu).
+### How we process your data when receiving your donation
+
+We process your personal data for the contract performance and for our legitimate interest. When you donate (or pledge to donate) to us, your personal data (first name, surname, place of residence and email address) is added to our database of donors where we also archive the information about the donation amount and frequency. We receive your donation via Darujme.cz, a portal for donors, operated by one of our contractors. This contractor undertakes to use the information that you have provided only as needed to process your donation and conclude the donation agreement. Then the contractor shares this information with our organization. Your bank account number, details of your payment and your credit card details are only shared with the bank performing the transaction.
+
+We process your personal data to comply with our legal obligations (book keeping, issuing donation certificates, and disclosing the total amount of received donations in our Annual Report and other materials) and for our legitimate interest (sending a thank you email to you along with the information how we used your donation; information about our activities and upcoming events; and perhaps a new donation request).
 
 ### How we process your data when you register for our workshop or subscribe to our newsletter
 
-We only process your personal data with your consent. If you register for one of our workshops or subscribe to our newsletter, you will be included in the related database. In this database, we process the personal data that you have provided (first name, surname, phone number, email address).
+We only process your personal data with your consent. If you register for one of our workshops or subscribe to our newsletter, the personal data that you have provided (first name, surname, phone number and email address) will be added to the related database.
 
-We process your personal data na základě uděleného souhlasu, a to za účelem uvedeným při udělení souhlasu (informování o dění v organizaci, o termínech seminářů apod.) a za účelem oprávněného zájmu správce (zasílání žádostí o podporu).
+We only process your personal data for the purpose specified when your consent was given (to inform you about our activities, upcoming workshops, etc.) and for our legitimate interest (sending donation requests).
 
 ### Website analytics
 
-We use Google Analytics to analyze the traffic on our website and use this data for website upgrades. The GA service stores _cookie_ files in your browser to identify returning visitors. These _cookies_ are anonymous and provide no personal data to us. You may also choose to block cookies in your browser.
+We use Google Analytics to analyze the traffic on our website and use this data for website upgrades. The GA service stores _cookie_ files in your browser to identify returning visitors. These cookies are anonymous and provide no personal data to us. You may also opt to block cookies in your browser.
 
-## Doba zpracování
+## Time period for data processing
 
-We process and store personal data of subject for the period Osobní údaje subjektů zpracováváme a uchováváme po dobu nezbytně nutnou pro výše uvedené účely. Doba zpracování osobních údajů pro plnění zákonných povinností se řídí příslušnými právními předpisy (zákon o účetnictví). V případě údajů zpracovávaných na základě oprávněného zájmu správce zpracováváme tyto údaje po dobu trvání oprávněného zájmu. Jestliže si již nepřejete být v databázích zpracovávaných údajů na základě uděleného souhlasu nebo oprávněného zájmu správce, máte právo na výmaz osobních údajů. Kontaktujte prosím příslušnou osobu (viz sekce _Správce osobních údajů_) nebo se odhlaste z odběru newsletterů (odkaz v patičce) apod.
+We process and store your personal data as long as necessary to fulfill the purposes described above. The time period for data processing needed to comply with legal obligations is defined by relevant legal regulations (e.g. Act on accounting). The data processed on the grounds of our legitimate interest is only processed for the duration of this legitimate interest. You may also request your personal data to be erased from our databases where your personal data is processed on the grounds of your consent or our legitimate interest. In such a case, please send your request to the contact person specified above (see _Data processor_) or unsubscribe from our newsletters (you will find the link in the website footer).
 
-## Způsob zpracování
+## Data processing methods
 
-Osobní údaje subjektů zpracováváme v rámci ústavu, případně pomocí třetích stran, jejichž seznam naleznete níže. Typicky se jedná o službu pro zasílání newsletterů či o externí účetní firmu. Tyto subjekty jsou obchodními partnery správce a fungují buď jako samostatní správci (mají stanoveny vlastní účely a prostředky zpracování osobních údajů), nebo jako zpracovatelé (zpracovávají osobní údaje pro správce na základě jeho pokynů). Osobní údaje jsou zpracovávány pouze v rámci EU.
+Your personal data is processed by our organization and by the third parties listed below. Typically, the third party is the service that we use for sending newsletters or our accounting company. All of the parties below are our partners and they are either data controllers themselves (they have their own purposes and methods of processing personal data) or they are data processors and process personal data for us as requested. Your personal data is not processed outside of the EU.
 
-### Data processors and partner organizations
+### Other data processors and partners
 
-* [Nadace VIA](https://www.nadacevia.cz/) processes data related to monetary gifts via [Darujme.cz](https://www.darujme.cz/) portal
-* [ECOMAIL.CZ, s.r.o.](https://ecomail.cz/) processes data in newsletters and email communication
-* [Jaspar s.r.o.](https://www.ucetnictvijaspar.cz/) processes accounting data
-* [Google Ireland Limited](https://en.wikipedia.org/wiki/Google) processes data related to website traffic via [Google Analytics](https://marketingplatform.google.com/about/analytics/)
+* [Nadace VIA](https://www.nadacevia.cz/) processes the data related to donations sent via the [Darujme.cz](https://www.darujme.cz/) portal
+* [ECOMAIL.CZ, s.r.o.](https://ecomail.cz/) processes the data in our newsletters and email communication
+* [Jaspar s.r.o.](https://www.ucetnictvijaspar.cz/) processes our accounting data
+* [Google Ireland Limited](https://en.wikipedia.org/wiki/Google) processes the data related to the website traffic via [Google Analytics](https://marketingplatform.google.com/about/analytics/)

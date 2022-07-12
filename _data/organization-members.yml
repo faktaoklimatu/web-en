@@ -1,10 +1,10 @@
-- title: "Naši členové"
+- title: "Our team"
   lead: |
-    Jsme tým expertů a expertek zabývajících se různými obory – přírodovědou, IT, společenskými vědami, pedagogikou nebo komunikací. Naším cílem je kultivovat společenskou diskuzi o klimatické změně. Chceme zprostředkovat současné vědecké poznání všem, kterých se změny klimatu týkají. Tedy všem.
+    We are professionals with various skills and expertise – in science, IT, communication and teaching – and we want to cultivate the Czech public debate about climate change and the transition to a low-carbon society. Through our materials, the latest scientific findings are easily accessible for all people who are affected by climate change. Which means: all people.
   class: "core-team col-12 col-sm-12 col-md-6 col-lg-4 px-2"
   members:
   - name: "Ondráš Přibyla"
-    position: "Zakladatel a ředitel"
+    position: "Founder and Director"
     summary: "Řeší hlavně strategii, rád se dostane k analytické práci a neúspěšně se snaží vyhýbat administrativě. V minulosti učil fyziku změny klimatu na Masarykově univerzitě."
     img: "ondras-pribyla.jpg"
     email: "ondras.pribyla@faktaoklimatu.cz"
@@ -12,7 +12,7 @@
     twitter: "https://twitter.com/OPribyla"
 
   - name: "Kristi Zákopčanová"
-    position: "Vizualizační guru"
+    position: "Visualization Guru"
     summary: "Zabývá se vizuální komunikací dat, stojí za velkou částí našich infografik a vizuálních výstupů. Mimo to dělá vizualizace v datovém týmu iRozhlasu, za svou práci [dostala](https://www.irozhlas.cz/zivotni-styl/novinarska-cena-2021-irozhlas-inovativni-zurnalistika-seznam_2206241001_sam) _Cenu za inovativní online žurnalistiku_."
     img: "kristi-zakopcanova.jpg"
     email: "kristi.zakopcanova@faktaoklimatu.cz"
@@ -20,7 +20,7 @@
     twitter: "https://twitter.com/kris_zak"
 
   - name: "Jeňa Krčál"
-    position: "Analytik"
+    position: "Analyst"
     summary: "Věnuje se energetice a modelování scénářů její transformace. Mimo to zpracoval řadu výstupů k emisím skleníkových plynů. Dříve pracoval v základním výzkumu okolo stochastických modelů, a také jako inženýr v Googlu."
     img: "jena-krcal.jpg"
     email: "jan.krcal@faktaoklimatu.cz"
@@ -28,14 +28,14 @@
     twitter: "https://twitter.com/krcal_jan"
 
   - name: "Kateřina Kolouchová"
-    position: "Analytička"
+    position: "Analyst"
     summary: "Věnuje se především klimatické politice a legislativě. Také analyzuje a vizualizuje data, čemuž se pár let věnovala v komerční sféře. Je absolventkou oboru Hospodářská politika a mezinárodní vztahy."
     img: "katka-kolouchova.jpg"
     email: "katerina.kolouchova@faktaoklimatu.cz"
     twitter: "https://twitter.com/katkolouchova"
 
   - name: "Jirka Lněnička"
-    position: "Analytik a editor"
+    position: "Analyst, Editor"
     summary: "Věnuje se tématu lesů a zdravé krajiny. Kromě toho s nadšením pronásleduje písmenka a přemýšlí, jak co nejlépe komunikovat o tématu klimatické změny – a co konkrétně to znamená pro naše texty a infografiky."
     img: "jirka-lnenicka.jpg"
     email: "jirka.lnenicka@faktaoklimatu.cz"
@@ -43,7 +43,7 @@
     twitter: "https://twitter.com/JirkaLnenicka"
 
   - name: "Petr Holík"
-    position: "Komunikační expert a podcaster"
+    position: "Communication Expert, Podcaster"
     summary: "Základem přírodovědec, který si tvořil svůj vztah k vědě během výzkumů v Arktidě i na jižní Moravě. Komunikaci vědy se věnuje už od studia Fyzické geografie. Tvoří podcast [2050](https://2050podcast.cz/) a přednáší o klimatické změně a transformaci."
     img: "petr-holik.jpg"
     email: "petr.holik@faktaoklimatu.cz"
@@ -51,7 +51,7 @@
     twitter: "https://twitter.com/holik_petr"
 
   - name: "Hana Vrtalová"
-    position: "Podcasterka a analytička"
+    position: "Podcaster, Analyst"
     summary: "S Petrem tvoří podcast [2050](https://2050podcast.cz/). Kromě toho se zabývá oblastí dekarbonizace dopravy. Vystudovala fyziku, ale dlouhá léta se věnuje především komunikaci."
     img: "hanka-vrtalova.jpg"
     email: "hana.vrtalova@faktaoklimatu.cz "
@@ -59,14 +59,14 @@
     twitter: "https://twitter.com/HVrtalova"
 
   - name: "Tom Protivínský"
-    position: "Analytik"
+    position: "Analyst"
     summary: "Věnuje se datovým analýzám a ekonomickým aspektům, například tématům zpoplatnění uhlíku a nákladům mitigace klimatických změn. Kromě toho pracuje pro ekonomický think-tank [IDEA](https://idea.cerge-ei.cz/)."
     img: "tomas-protivinsky.jpg"
     email: "tomas.protivinsky@faktaoklimatu.cz"
     twitter: "https://twitter.com/protivinsky"
 
   - name: "Milan Vítek"
-    position: "Správce sociálních sítí"
+    position: "Social Media Manager"
     summary: "Stará se o sociální sítě Fakt o klimatu. Kromě toho se zabývá tématy vlivu změny klimatu na extrémy počasí a uhlíkového cyklu."
     img: "milan-vitek.jpg"
     email: "milan.vitek@faktaoklimatu.cz "
@@ -74,21 +74,21 @@
     twitter: "https://twitter.com/vitekmilan"
 
   - name: "Martin Ukrop"
-    position: "Programátor"
+    position: "Programmer"
     summary: "Stará se o web i všechny ostatní technologie. Snaží se udržet naši komunikaci konzistentní a spolehlivou."
     img: "martin-ukrop.jpg"
     email: "martin.ukrop@faktaoklimatu.cz"
     linkedin: "https://www.linkedin.com/in/mukrop/"
 
   - name: "Matěj Grabovský"
-    position: "Analytik a programátor"
+    position: "Analyst, Programmer"
     summary: "Baví ho přehrabovat se v datech a zpracovávat analýzy v širokém spektru témat. Mimo to programuje web a zbavuje naše texty překlepů."
     img: "matej-grabovsky.jpg"
     email: "matej.grabovsky@faktaoklimatu.cz"
 
-- title: "Faktům o klimatu dále pomáhají"
+- title: "Other contributors"
   lead: |
-    Další lidé pomáhají konzultačně, rešeršemi, psaním textů nebo programováním webu. Je jich však mnohem <a href='https://github.com/faktaoklimatu/web-cz/blob/master/CONTRIBUTORS.md'>více</a>.
+    Other people help the core team through consulting, literature review, texts or website programming. But there are many <a href='https://github.com/faktaoklimatu/web-cz/blob/master/CONTRIBUTORS.md'>more</a>.
   class: "further-team col-12 col-sm-12 col-md-4 col-lg-3 px-0"
   members:
   - name: "Jan Krajhanzl"

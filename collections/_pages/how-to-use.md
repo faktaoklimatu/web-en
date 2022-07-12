@@ -14,8 +14,7 @@ We believe that free information can improve the quality of the public debate an
 </div>
 
 <div class="section">
-<div class="container clearfix" markdown="1">
-  
+<div class="container clearfix" markdown="1">  
 ## How can I use materials from Fakta o klimatu?
 
 <figure class="d-none d-md-block float-right w-50 ml-4">
@@ -45,7 +44,6 @@ You can also generate the citation directly: click the Share button (with <tt>&l
 <div class="section">
 <div class="container" markdown="1">
 {:#file-formats}
-  
 ## Available formats: infographics
 
 All of our infographics are downloadable. Choose the format of your preference: vector graphic (PDF or SVG) or raster graphic (different sizes of PNG).
@@ -66,8 +64,7 @@ You can also access the underlying data used in our infographics.
 
 <div class="section">
 <div class="container" markdown="1">
-{:#kontakt}
-  
+{:#kontakt} 
 ## How can you contact us?
 
 If you need to consult with us how to use our infographics or data (e.g. you want to publish them in the media), please let us know at [info@faktaoklimatu.cz](mailto:info@faktaoklimatu.cz). You can also contact our Director Ondráš Přibyla at [ondras.pribyla@faktaoklimatu.cz](mailto:ondras.pribyla@faktaoklimatu.cz) or call him at +420 775 988 882.

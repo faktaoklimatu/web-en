@@ -9,6 +9,11 @@
     }
 }
 
+.team-photo {
+    width: 50%;
+    border-radius: 50%
+}
+
 @media screen and (max-width: 768px) {
     h2 { padding-left: 0; }
 }

@@ -7,10 +7,8 @@
 
 - title: More
   dropdown:
-    - title: News
-      link: /news
 
-    - title: How to use our material
+    - title: How to use our materials
       link: /how-to-use
 
     - title: Support us <i class="fas fa-fw fa-heart"></i>

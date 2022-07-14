@@ -1,17 +1,17 @@
 ---
 layout: empty
-title: Facts on climate
+title: Fakta o klimatu
 slug: index
 sitemap: true
 ---
 <div class="section intro">
     <div class="container">
-        <h1 class="display-1" id="home">Fakta o změně<br>klimatu</h1>
-        <span class="tagline">Veřejně dostupné<br>infografiky a datasety</span>
-        <p class="mb-5">Shromažďujeme data o klimatu a klimatické změně, která poskytují vědecké instituce (ČHMÚ, NASA, Eurostat a jiné) a zpracováváme z nich grafy a infografiky pro <a href="/how-to-use" title="Jak používat naše materiály">další použití</a>.<br/>
-            <a href="{{ site.fundraising }}" class="btn btn-primary mt-3"><i class="fas fa-fw fa-heart"></i> Podpořte nás</a>
+        <h1 class="display-1" id="home">Facts on Climate Change</h1>
+        <span class="tagline"><br>Free infographics and datasets</span>
+        <p class="mb-5">We collect various climate change data provided by Czech and international research and monitoring institutions (CHMI, NASA, Eurostat, etc.) and present this data in our graphs and infographics for <a href="/how-to-use" title="How to use our materials">further use</a>.<br/>
+            <a href="{{ site.fundraising }}" class="btn btn-primary mt-3"><i class="fas fa-fw fa-heart"></i> Support us</a>
             <a href="https://twitter.com/{{ site.twitter }}" target="_blank" class="btn btn-secondary mt-3"><i class="fab fa-fw fa-twitter"></i> Twitter</a>
-            <a href="#o-projektu" class="btn btn-secondary mt-3"><i class="fas fa-fw fa-info"></i> O projektu</a>
+            <a href="#o-projektu" class="btn btn-secondary mt-3"><i class="fas fa-fw fa-info"></i> More about project</a>
         </p>
     </div>
 </div>
@@ -19,10 +19,10 @@ sitemap: true
 {% assign sorted_index_tags = site.data.tags | where_exp: "item", "item.index-weight > 0" | sort: "index-weight" %}
 <div class="section"><div class="container" markdown="1">
 {: .display-2}
-## Oblasti, kterým se věnujeme
+## Key project areas 
 
 {:.lead}
-Klimatická změna je složitý komplex vzájemně provázaných jevů. Data, která sbíráme, třídíme a zpracováváme, se proto dotýkají různých oborů lidské činnosti – od ekonomiky přes politiku až po energetiku. Pro usnadnění orientace na webu třídíme naše materiály do níže uvedených kategorií.
+Climate change is a complex of interrelated phenomena. That is why the data that we collect, process and present is related to a number of areas of human activity – from economy to politics and power industry. Our materials are grouped in the following categories:
 
 <div class="accordion" id="accordionExample">
 {% for index_tag in sorted_index_tags %}
@@ -50,27 +50,27 @@ Klimatická změna je složitý komplex vzájemně provázaných jevů. Data, kt
 
 <div class="section"><div class="container clearfix" markdown="1">
 {:#o-projektu .display-2}
-## O nás a naší práci
+## About us and our work
 
 {:.lead}
-Projekt Fakta o klimatu usiluje o zkvalitnění společenské diskuse o klimatické změně.
-Snažíme se dodávat srozumitelné údaje široké veřejnosti a vizuálně zpracovávat vědecké informace, aby bylo rozhodování ve věcech týkajících se klimatu založené na aktuálních a ověřených datech.
+We would like to contribute to a more evidence-based Czech public debate about climate change.
+We create easy-to-understand visual and text materials and communicate the latest research findings to support key decisions in the Czech Republic that are related to climate change and a transition to a net zero economy.
 
 {:.lead}
-Debata o klimatické změně je komplikovaná a na všech stranách plná zbytečných emocí, polopravd a mýtů. Chceme poutat pozornost na důležitá témata a stavět most mezi vědci a lidmi, kterých se změny klimatu týkají. A to jsou všichni lidé.
+The debate about climate change is complicated and full of emotions, half-truths and myths. We want to highlight the most important issues and build bridges between scientists and all people affected by climate change. Which means all people.
 
 {:.lead}
-Jsme tým profesionálů zabývajících se různými obory – přírodovědou, informatikou, pedagogikou nebo komunikací. Pracuje na dobrovolnické bázi a finance na provoz získáváme od dárců, nepracujeme na ničí objednávku. Při naší činnosti komunikujeme s politiky, energetickými firmami i aktivistickými hnutími. Fakta o klimatu jsou však nezávislý projekt, který může podpořit každý.
+We are a team of professionals with various skills and expertise – science, IT, communication and teaching – and we communicate with journalists, politicians, stakeholders as well as activists. We are an independent think tank and our budget is based on donations and grants.
 
 <div class="row">
-  <a href="/about" class="btn btn-primary btn-lg col"><i class="fas fa-fw fa-info"></i> Více o projektu</a>
-  <a href="{{ site.fundraising }}" class="btn btn-primary btn-lg col"><i class="fas fa-fw fa-heart"></i> Podpořte nás</a>
+  <a href="/about" class="btn btn-primary btn-lg col"><i class="fas fa-fw fa-info"></i> More about our project</a>
+  <a href="{{ site.fundraising }}" class="btn btn-primary btn-lg col"><i class="fas fa-fw fa-heart"></i> Support us</a>
 </div>
 
 <a href="https://www.climate-kic.org/" class="no-ext-link-icon"><img class="index-logos float-right" src="/assets-local/img/logo-climate-kic.png" alt="Climate-KIC logo"/></a>
 <a href="https://climatechallenge.impacthub.cz/" class="no-ext-link-icon"><img class="index-logos float-right" src="/assets-local/img/logo-climate-challenge.png" alt="Climate Challenge logo"/></a>
 
 {:.lead}
-V roce 2020 jsme zvítězili v akceleračním programu [Climate Challenge](https://climatechallenge.impacthub.cz/) pořádaným sítí podnikatelských inkubátorů [Impact Hub](https://impacthub.cz). V rámci toho náš projekt podpořila evropská iniciativa [Climate-KIC](https://www.climate-kic.org/), která hledá inovativní řešení na klimatickou krizi.
+In 2020, we received the best project award in the [Climate Challenge](https://climatechallenge.impacthub.cz/) Acceleration Program, which is organized by a network of business incubators called [Impact Hub](https://impacthub.cz) and we were supported by [Climate-KIC](https://www.climate-kic.org/), the European initiative searching for innovative solutions to the current climate crisis.
 
 </div></div>

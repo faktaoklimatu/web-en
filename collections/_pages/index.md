@@ -6,14 +6,29 @@ sitemap: true
 ---
 <div class="section intro">
     <div class="container">
-        <h1 class="display-1" id="home">Facts on Climate Change</h1>
+        <h1 class="display-1" id="home">Facts on Climate<br>Change</h1>
         <span class="tagline"><br>Free infographics and datasets</span>
         <p class="mb-5">We collect various climate change data provided by Czech and international research and monitoring institutions (CHMI, NASA, Eurostat, etc.) and present this data in our graphs and infographics for <a href="/how-to-use" title="How to use our materials">further use</a>.<br/>
             <a href="{{ site.fundraising }}" class="btn btn-primary mt-3"><i class="fas fa-fw fa-heart"></i> Support us</a>
             <a href="https://twitter.com/{{ site.twitter }}" target="_blank" class="btn btn-secondary mt-3"><i class="fab fa-fw fa-twitter"></i> Twitter</a>
             <a href="#o-projektu" class="btn btn-secondary mt-3"><i class="fas fa-fw fa-info"></i> More about project</a>
         </p>
+   <ul class="nav nav-tabs" role="tablist">
+            <li class="nav-item" role="presentation">
+                <h2 class="nav-link bg-extralight-green" id="tab-role-2" data-toggle="tab" href="#tab2" role="tab" aria-controls="tab2" aria-selected="false">New materials</h2>
+            </li>
+        </ul>
     </div>
+</div>
+
+<div class="tab-content" id="myTabContent">
+
+  <div class="section tab-pane fade bg-extralight-green pt-4 pb-4" id="tab2" role="tabpanel" aria-labelledby="tab-role-2"><div class="container">
+    <p class="lead mb-0">Zajímají vás naše novinky? V této sekci vždy najdete naše nejnovější infografiky, explainery, výtahy studií a datasety.</p>
+    {% assign objects = site.infographics | concat: site.studies | concat: site.datasets | concat: site.explainers | sort: "published" | reverse %}
+    {% include preview-blocks.html blocks=objects limit=6 %}
+  </div></div>
+
 </div>
 
 {% assign sorted_index_tags = site.data.tags | where_exp: "item", "item.index-weight > 0" | sort: "index-weight" %}

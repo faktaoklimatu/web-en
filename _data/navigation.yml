@@ -21,9 +21,9 @@
 - title: english
   lang: en
   dropdown:
-    - title: česky
+    - title: Czech
       lang: cs
       link: https://faktaoklimatu.cz
-    - title: slovensky
+    - title: Slovak
       lang: sk
       link: https://faktyoklime.sk

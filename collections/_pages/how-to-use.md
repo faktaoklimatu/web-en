@@ -14,28 +14,28 @@ We believe that free information can improve the quality of the public debate an
 </div>
 
 <div class="section">
-<div class="container clearfix" markdown="1">  
+<div class="container clearfix" markdown="1">
 ## How can I use materials from Fakta o klimatu?
 
 <figure class="d-none d-md-block float-right w-50 ml-4">
 <a href="/infographics/emissions-czechia"><img src="/assets/generated/emissions-czechia_600.png" class="rounded w-100" alt="Greenhouse Gas Emissions in Czechia by Sector" /></a>
-<figcaption class="pt-2">An example of using our infographic: The <em><a href="/infographics/emissions-czechia">Greenhouse Gas Emissions in Czechia by Sector</a></em> infographic by <a href="/">Fakta o klimatu</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/deed.cs">CC BY 4.0</a>.</figcaption>
+<figcaption class="pt-2">An example of using our infographic: The <em><a href="/infographics/emissions-czechia">Greenhouse Gas Emissions in Czechia by Sector</a></em> infographic by <a href="/">Fakta o klimatu</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/deed">CC BY 4.0</a>.</figcaption>
 </figure>
 
-All of our materials are under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.cs) license. This license allows you to use our materials as follows:
+All of our materials are under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed) license. This license allows you to use our materials as follows:
 
 * **share** – copy and redistribute the material in any medium and format
 * **adapt** – remix, transform and build upon the material for any purpose, even commercially,
 
 if you **give appropriate credit**, i.e. mention us as the original author, include the link to our website, provide the license name and the link to the license and indicate if any changes of the infographic or dataset were made. Your final product may be visually different, depending on the media where it is used (website, newspaper article, etc.), but the credit must be always there.
 
-When using our infographic or data, always provide the link to the page with this particular infographic or dataset, not the link to the image. An example: _"The [Greenhouse Gas Emissions in Czechia by Sector](/infographics/emissions-czechia) infographic by [Fakta o klimatu](/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.cs)."_ 
+When using our infographic or data, always provide the link to the page with this particular infographic or dataset, not the link to the image. An example: _"The [Greenhouse Gas Emissions in Czechia by Sector](/infographics/emissions-czechia) infographic by [Fakta o klimatu](/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed)."_ 
 
 You can also generate the citation directly: click the Share button (with <tt>&lt;/&gt;</tt> symbol) in the "Sharing and license" section on the page with the infographic or dataset.
 
 <figure class="d-md-none w-100 mt-2">
 <a href="/infographics/emissions-czechia"><img src="/assets/generated/emissions-czechia_600.png" class="rounded w-100" alt="Greenhouse Gas Emissions in Czechia by Sector in Detail" /></a>
-<figcaption class="pt-2">An example of using an infographic from faktaoklimatu.cz. The <em><a href="/infographics/emissions-czechia">Greenhouse Gas Emissions in Czechia by Sector in Detail</a></em> infographic by <a href="/">Fakta o klimatu</a>, licenced under <a href="https://creativecommons.org/licenses/by/4.0/deed.cs">CC BY 4.0</a>.</figcaption>
+<figcaption class="pt-2">An example of using an infographic from faktaoklimatu.cz. The <em><a href="/infographics/emissions-czechia">Greenhouse Gas Emissions in Czechia by Sector in Detail</a></em> infographic by <a href="/">Fakta o klimatu</a>, licenced under <a href="https://creativecommons.org/licenses/by/4.0/deed">CC BY 4.0</a>.</figcaption>
 </figure>
 
 </div>

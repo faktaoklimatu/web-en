@@ -21,7 +21,7 @@ newsletter:
 licence:
   id: "CC BY 4.0"
   title: "Creative Commons Attribution 4.0 International"
-  link: "https://creativecommons.org/licenses/by/4.0/deed.en"
+  link: "https://creativecommons.org/licenses/by/4.0/deed"
 
 topic:
   gauge-source: "Source"

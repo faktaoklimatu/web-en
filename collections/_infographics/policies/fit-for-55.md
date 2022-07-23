@@ -3,7 +3,7 @@ layout:        infographic
 title:         "What is Fit for 55"
 slug:          "fit-for-55"
 redirect_from: "/fit-for-55"
-published:     2022-06-06
+published:     2022-07-26
 weight:        93
 tags-scopes:   [ eu ]
 tags-topics:   [ policies, economy ]

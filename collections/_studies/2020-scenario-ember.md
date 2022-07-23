@@ -3,7 +3,7 @@ layout:        infographic
 title:         "Ember: Czech electricity transition study"
 slug:          "2020-scenario-ember"
 redirect_from: "/2020-scenario-ember"
-published:     2022-06-06
+published:     2022-07-26
 weight:        91
 tags-scopes:   [ cz ]
 tags-topics:   [ energy, policies ]

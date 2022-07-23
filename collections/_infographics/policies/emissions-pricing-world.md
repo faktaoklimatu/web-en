@@ -3,7 +3,7 @@ layout:        infographic
 title:         "Emissions & carbon pricing: world"
 slug:          "emissions-pricing-world"
 redirect_from: "/emissions-pricing-world"
-published:     2022-06-06
+published:     2022-07-26
 weight:        95
 tags-scopes:   [ world ]
 tags-topics:   [ policies, economy ]

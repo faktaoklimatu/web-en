@@ -3,7 +3,7 @@ layout:        infographic
 title:         "Energynautics: Czech electricity transition study"
 slug:          "2018-scenario-energynautics"
 redirect_from: "/2018-scenario-energynautics"
-published:     2022-06-06
+published:     2022-07-26
 weight:        92
 tags-scopes:   [ cz ]
 tags-topics:   [ energy, policies ]

@@ -3,7 +3,7 @@ layout:        infographic
 title:         "Global CO2 emissions: fossil fuels & cement production"
 slug:          "fossil-fuels-emissions"
 redirect_from: "/fossil-fuels-emissions"
-published:     2022-06-06
+published:     2022-07-26
 weight:        95
 tags-scopes:   [ world ]
 tags-topics:   [ emissions, energy ]

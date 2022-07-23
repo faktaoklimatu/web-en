@@ -3,7 +3,7 @@ layout:        infographic
 title:         "EU funding for climate action in Czechia"
 slug:          "eu-funds"
 redirect_from: "/eu-funds"
-published:     2022-06-06
+published:     2022-07-26
 weight:        94.5
 tags-scopes:   [ eu, cz ]
 tags-topics:   [ policies, economy ]

@@ -3,7 +3,7 @@ layout:        infographic
 title:         "Greenhouse gas emissions in Czechia by sectors"
 slug:          "emissions-czechia"
 redirect_from: "/emissions-czechia"
-published:     2022-06-06
+published:     2022-07-26
 weight:        50
 tags-scopes:   [ cz ]
 tags-topics:   [ emissions ]

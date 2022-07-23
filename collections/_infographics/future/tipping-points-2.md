@@ -3,7 +3,7 @@ layout:        infographic
 title:         "Why is global warming above 1.5°C a problem? [2/3]"
 slug:          "tipping-points-2"
 redirect_from: "/tipping-points-2"
-published:     2022-06-06
+published:     2022-07-26
 weight:        98
 tags-scopes:   [ world ]
 tags-topics:   [ future ]

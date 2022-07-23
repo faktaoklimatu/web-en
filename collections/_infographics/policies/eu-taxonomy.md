@@ -3,7 +3,7 @@ layout:        infographic
 title:         "What is EU taxonomy"
 slug:          "eu-taxonomy"
 redirect_from: "/eu-taxonomy"
-published:     2022-06-06
+published:     2022-07-26
 weight:        95.5
 tags-scopes:   [ eu ]
 tags-topics:   [ policies, economy ]

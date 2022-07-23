@@ -3,7 +3,7 @@ layout:        infographic
 title:         "Electricity production, consumption and emissions"
 slug:          "electricity-slovakia"
 redirect_from: "/electricity-slovakia"
-published:     2022-06-06
+published:     2022-07-26
 weight:        130
 tags-scopes:   [ eu ]
 tags-topics:   [ energy ]

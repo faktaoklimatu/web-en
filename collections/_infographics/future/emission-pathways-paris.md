@@ -3,7 +3,7 @@ layout:        infographic
 title:         "Emission pathways towards Paris agreement"
 slug:          "emission-pathways-paris"
 redirect_from: "/emission-pathways-paris"
-published:     2022-06-06
+published:     2022-07-26
 weight:        90
 tags-scopes:   [ world ]
 tags-topics:   [ future, emissions, policies ]

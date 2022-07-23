@@ -3,7 +3,7 @@ layout:        infographic
 title:         "Potential of emission reduction pathways: Czechia"
 slug:          "emission-reduction-potential"
 redirect_from: "/emission-reduction-potential"
-published:     2022-06-06
+published:     2022-07-26
 weight:        65
 tags-scopes:   [ cz ]
 tags-topics:   [ emissions, policies ]

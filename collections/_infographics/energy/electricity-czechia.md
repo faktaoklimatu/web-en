@@ -3,7 +3,7 @@ layout:        infographic
 title:         "Electricity production, consumption and emissions"
 slug:          "electricity-czechia"
 redirect_from: "/electricity-czechia"
-published:     2022-06-06
+published:     2022-07-26
 weight:        70
 tags-scopes:   [ cz ]
 tags-topics:   [ energy ]

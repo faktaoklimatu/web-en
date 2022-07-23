@@ -3,7 +3,7 @@ layout:        infographic
 title:         "How are CO2 concentrations related to warming?"
 slug:          "concentration-warming-relationship"
 redirect_from: "/concentration-warming-relationship"
-published:     2022-06-06
+published:     2022-07-26
 weight:        90
 tags-scopes:   [ world ]
 tags-topics:   [ climate ]

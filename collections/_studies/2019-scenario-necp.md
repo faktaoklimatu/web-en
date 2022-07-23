@@ -3,7 +3,7 @@ layout:        infographic
 title:         "NECP: Czech electricity transition study"
 slug:          "2019-scenario-necp"
 redirect_from: "/2019-scenario-necp"
-published:     2022-06-06
+published:     2022-07-26
 weight:        90
 tags-scopes:   [ cz ]
 tags-topics:   [ energy, policies ]

@@ -3,7 +3,7 @@ layout:        infographic
 title:         "Electricity production per capita in world regions"
 slug:          "electricity-per-capita-world"
 redirect_from: "/electricity-per-capita-world"
-published:     2022-06-06
+published:     2022-07-26
 weight:        120
 tags-scopes:   [ world ]
 tags-topics:   [ energy ]

@@ -3,7 +3,7 @@ layout:        infographic
 title:         "Energy production: transition pathways (Czechia)"
 slug:          "transition-scenarios-comparison-czechia"
 redirect_from: "/transition-scenarios-comparison-czechia"
-published:     2022-06-06
+published:     2022-07-26
 weight:        73
 tags-scopes:   [ cz ]
 tags-topics:   [ energy, policies ]

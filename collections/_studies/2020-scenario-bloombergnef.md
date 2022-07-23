@@ -3,7 +3,7 @@ layout:        infographic
 title:         "BloombergNEF: Czech electricity transition study"
 slug:          "2020-scenario-bloombergnef"
 redirect_from: "/2020-scenario-bloombergnef"
-published:     2022-06-06
+published:     2022-07-26
 weight:        93
 tags-scopes:   [ cz ]
 tags-topics:   [ energy, policies ]

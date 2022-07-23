@@ -3,7 +3,7 @@ layout:        infographic
 title:         "Map of temperature changes (1961–2019)"
 slug:          "map-temperature-change"
 redirect_from: "/map-temperature-change"
-published:     2022-06-06
+published:     2022-07-26
 weight:        99
 tags-scopes:   [ world ]
 tags-topics:   [ climate ]

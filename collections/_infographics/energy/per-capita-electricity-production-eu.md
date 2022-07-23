@@ -3,7 +3,7 @@ layout:        infographic
 title:         "Per capita electricity production in the EU"
 slug:          "per-capita-electricity-production-eu"
 redirect_from: "/per-capita-electricity-production-eu"
-published:     2022-06-06
+published:     2022-07-26
 weight:        93
 tags-scopes:   [ eu ]
 tags-topics:   [ energy ]

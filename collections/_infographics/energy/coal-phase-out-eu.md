@@ -3,7 +3,7 @@ layout:        infographic
 title:         "Coal phase-out in the EU countries"
 slug:          "coal-phase-out-eu"
 redirect_from: "/coal-phase-out-eu"
-published:     2022-06-06
+published:     2022-07-26
 weight:        90
 tags-scopes:   [ eu ]
 tags-topics:   [ energy, policies ]

@@ -98,11 +98,12 @@ sidebar:
     source-pdf: "study PDF"
 
 tag:
-  all-tags-caption: "An overview of scopes and topics that we focus on"
-  scope: "Scope"
+  all-tags-caption: "An overview of regions and topics that we focus on"
+  back-to-homepage: "Back to homepage"
+  scope: "Region"
   topic: "Topic"
-  all-scope: "All infographics, studies and datasets with the scope of"
-  all-topic: "All infographics, studies and datasets related to"
+  all-scope: "All infographics, explainers, studies and datasets with the scope of"
+  all-topic: "All infographics, explainers, studies and datasets related to"
   all-explainers: "Our explainers related to the topic, in which we focus on important issues and provide relevant context."
   all-infographics: "Our infographics related to the topic, including the data source and relevant details."
   all-studies: "Our surveys and study summaries related to the topic. We explain the importance of each study and provide a brief summary."

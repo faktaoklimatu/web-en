@@ -13,25 +13,6 @@ intro: "The debate about climate change is complicated and full of emotions, hal
     </div>
 </div>
 
-{%- comment %}
-<div class="section">
-    <div class="container">
-        <h2>Náš příběh</h2>
-        {%- assign story = site.data.organization-story %}
-        {%- for item in story %}
-        <div class="news-item">
-            <div class="d-block d-md-inline-block date">
-                <p><strong>{{ item.title }}</strong></p>
-            </div>
-            <div class="d-inline-block summary">
-                {{ item.text | markdownify -}}
-            </div>
-        </div>
-        {%- endfor %}
-    </div>
-</div>
-{%- endcomment %}
-
 {%- assign groups = site.data.organization-members -%}
 {%- for group in groups %}
     <div class="section">

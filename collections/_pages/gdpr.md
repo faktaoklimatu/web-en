@@ -34,7 +34,7 @@ We only process your personal data for the purpose specified when your consent w
 
 ### Website analytics
 
-We use Google Analytics to analyze the traffic on our website and use this data for website upgrades. The GA service stores _cookie_ files in your browser to identify returning visitors. These cookies are anonymous and provide no personal data to us. You may also opt to block cookies in your browser.
+We use Google Analytics (GA) to analyze the traffic on our website and use this data for website upgrades. The GA service stores _cookie_ files in your browser to identify returning visitors. These cookies are anonymous and provide no personal data to us. You may also opt to block cookies in your browser.
 
 ## Time period for data processing
 

@@ -5,7 +5,7 @@ module Jekyll
     def sort_localized(input, property = nil)
       return [] if input.empty?
 
-      collator = ICU::Collation::Collator.new('cs')
+      collator = ICU::Collation::Collator.new('en')
 
       if property.nil?
         collator.collate(input)

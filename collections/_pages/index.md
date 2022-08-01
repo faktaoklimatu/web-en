@@ -8,9 +8,11 @@ sitemap: true
     <div class="container">
         <h1 class="display-1" id="home">Facts on Climate<br>Change</h1>
         <p>We collect various climate change data provided by Czech and international research and monitoring institutions (CHMI, NASA, Eurostat, etc.) and present this data in our graphs and infographics for <a href="/how-to-use" title="How to use our materials">further use</a>.<br/>
-            <a href="{{ site.fundraising }}" class="btn btn-primary mt-3"><i class="fas fa-fw fa-heart"></i> Support us</a>
-            <a href="https://twitter.com/{{ site.twitter }}" target="_blank" class="btn btn-secondary mt-3"><i class="fab fa-fw fa-twitter"></i> Twitter</a>
-            <a href="#o-projektu" class="btn btn-secondary mt-3"><i class="fas fa-fw fa-info"></i> More about project</a>
+        </p>
+        <p class="intro-buttons">
+            <a href="{{ site.fundraising }}" class="btn btn-primary"><i class="fas fa-fw fa-heart"></i> Support us</a>
+            <a href="https://twitter.com/{{ site.twitter }}" target="_blank" class="btn btn-secondary"><i class="fab fa-fw fa-twitter"></i> Twitter</a>
+            <a href="#o-projektu" class="btn btn-secondary"><i class="fas fa-fw fa-info"></i> More about project</a>
         </p>
     </div>
 </div>
@@ -20,8 +22,8 @@ sitemap: true
 ## New materials
 
 <p class="lead mb-0">Are you interested in our new releases? In this section, you will find our newest infographics, explainers and summaries.</p>
-{% assign objects = site.infographics | concat: site.studies | concat: site.datasets | concat: site.explainers | sort: "published" | reverse %}
-{% include preview-blocks.html blocks=objects limit=6 %}
+{% assign slugs = site.infographics | concat: site.studies | concat: site.datasets | concat: site.explainers | sort: "published" | reverse | map: "slug" | slice: 0, 6 %}
+{% include preview-blocks-expandable.html slugs=slugs %}
 </div></div>
 
 {% assign sorted_index_tags = site.data.tags | where_exp: "item", "item.index-weight > 0" | sort: "index-weight" %}
@@ -71,12 +73,12 @@ The debate about climate change is complicated and full of emotions, half-truths
 We are a team of professionals with various skills and expertise – science, IT, communication and teaching – and we communicate with journalists, politicians, stakeholders as well as activists. We are an independent think tank and our budget is based on donations and grants.
 
 <div class="row">
-  <a href="/about" class="btn btn-primary btn-lg col"><i class="fas fa-fw fa-info"></i> More about our project</a>
-  <a href="{{ site.fundraising }}" class="btn btn-primary btn-lg col"><i class="fas fa-fw fa-heart"></i> Support us</a>
+  <a href="/about" class="btn btn-primary btn-md-lg col"><i class="fas fa-fw fa-info"></i> More about our project</a>
+  <a href="{{ site.fundraising }}" class="btn btn-primary btn-md-lg col"><i class="fas fa-fw fa-heart"></i> Support us</a>
 </div>
 
-<a href="https://www.climate-kic.org/" class="no-ext-link-icon"><img class="index-logos float-right" src="/assets-local/img/logo-climate-kic.png" alt="Climate-KIC logo"/></a>
-<a href="https://climatechallenge.impacthub.cz/" class="no-ext-link-icon"><img class="index-logos float-right" src="/assets-local/img/logo-climate-challenge.png" alt="Climate Challenge logo"/></a>
+<a href="https://www.climate-kic.org/" class="no-ext-link-icon"><img class="index-logos float-md-right" src="/assets-local/img/logo-climate-kic.png" alt="Climate-KIC logo"/></a>
+<a href="https://climatechallenge.impacthub.cz/" class="no-ext-link-icon"><img class="index-logos float-md-right" src="/assets-local/img/logo-climate-challenge.png" alt="Climate Challenge logo"/></a>
 
 {:.lead}
 In 2020, we received the best project award in the [Climate Challenge](https://climatechallenge.impacthub.cz/) Acceleration Program, which is organized by a network of business incubators called [Impact Hub](https://impacthub.cz) and we were supported by [Climate-KIC](https://www.climate-kic.org/), the European initiative searching for innovative solutions to the current climate crisis.

@@ -8,6 +8,9 @@ navigation:
     failed: "The search does not work. Maybe an Internet connection problem?"
     hide: "Cancel"
     label: "Search"
+  first-id: "intro"
+  preview-boxes-expand: "More materials"
+  preview-boxes-collapse: "Less materials"
 
 footer:
   get-newsletter: "Subscribe to our newsletter (CZ)"
@@ -25,9 +28,9 @@ licence:
 
 topic:
   gauge-source: "Source"
+  intro-title: "Intro"
   nutshell-id: "nutshell"
   nutshell-title: "In a nutshell"
-  map-caption: "Map of terms and concepts"
 
 text:
   toc: "Table of Contents"

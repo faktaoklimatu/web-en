@@ -6,17 +6,17 @@
 
 - id: cz
   name-short: CZ
-  name-long: the Czech Republic
+  name-long: Czech Republic
   is-scope: true
 
 - id: eu
   name-short: EU
-  name-long: the European Union
+  name-long: European Union
   is-scope: true
 
 - id: world
   name-short: world
-  name-long: the world
+  name-long: World
   is-scope: true
 
 - id: climate

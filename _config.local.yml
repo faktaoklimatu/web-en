@@ -9,10 +9,12 @@ github: faktaoklimatu/web-en
 twitter: "faktaoklimatu"
 facebook: "faktaoklimatu"
 linkedin: "68480136"
+instagram: "2050_podcast"
+youtube: "UCpW-nPyjH68BUfAjzhk7O_Q"
 newsletter: "9-54057be166928eb6fcc57504dc847797"
 fundraising: "https://www.darujme.cz/projekt/1203742"
 author: factsonclimate.org
-copyright: "&copy; 2022 Otevřená data o klimatu, z. ú."
+copyright: "Otevřená data o klimatu, z. ú."
 description: We collect data on climate and climate change provided by scientific institutions and transform them into infographics for further use.
 keywords: climate, climate change, infographics
 
@@ -27,7 +29,6 @@ slugs:
   topics: topics
   glossary: glossary
   how-to-use: how-to-use
-  news: news
   about: about
 
 collections_dir: collections

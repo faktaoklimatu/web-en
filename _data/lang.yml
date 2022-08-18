@@ -7,16 +7,15 @@ navigation:
     empty: "We found nothing"
     failed: "The search does not work. Maybe an Internet connection problem?"
     hide: "Cancel"
-    label: "Search"
+    label: "Topic, keyword, …"
   first-id: "intro"
   preview-boxes-expand: "More materials"
   preview-boxes-collapse: "Less materials"
 
 footer:
-  get-newsletter: "Subscribe to our newsletter (CZ)"
-  support-us: "Support us"
-  last-change: "Last change"
+  follow-us: "Follows us on social media"
   privacy-policy: "Privacy policy"
+  how-to-use: "How to use our materials"
 
 newsletter:
   subscribe: "Subscribe to our newsletter"

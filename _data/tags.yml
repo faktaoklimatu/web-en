@@ -21,49 +21,49 @@
 
 - id: climate
   name-short: climate
-  name-long: climate indicators
+  name-long: Climate indicators
   index-weight: 1
   description: |
     Since the beginning of the Industrial Revolution, i.e. in the last 200 years, the mean global atmospheric temperature has risen by approx. 1.1°C. In the Czech Republic, the temperature is rising faster: 2°C over the last 60 years. The CO<sub>2</sub> concentrations in the atmosphere have never been so high throughout the *Homo sapiens* era.
 
 - id: emissions
   name-short: emissions
-  name-long: greenhouse gas emissions
+  name-long: Greenhouse gas emissions
   index-weight: 2
   description: |
     Greenhouse gas emissions in the atmosphere are the result of fossil fuels combustion and other processes, such as cement production, growing rice or keeping livestock. The Czech Republic is a major emitter of greenhouse gases (per capita), not only in the EU but globally.
 
 - id: energy
   name-short: energy
-  name-long: energy industry
+  name-long: Energy industry
   index-weight: 3
   description: |
     The electric power industry is the world's biggest source of greenhouse gas emissions (around 40% of CO<sub>2</sub> emissions and approx. 25% of all greenhouse gas emissions expressed in CO<sub>2</sub>eq in 2017). The role that this sector plays in global warming is significantly larger than the impact of farming, fossil fuel combustion in transport and industry or cement production. More than 70% of emissions in this sector come from coal, over 20% from natural gas, and around 5% from oil derivatives.
 
 - id: future
   name-short: future
-  name-long: future development scenarios
+  name-long: Future development scenarios
   index-weight: 4
   description: |
     What will happen to our climate in the future largely depends on our future greenhouse gas emissions and global deforestation. Possible future scenarios are laid out in the RCP emission pathways. Climate change also brings along great risks – if tipping points are exceeded, some ecosystems and climate systems may collapse.
 
 - id: policies
   name-short: policies
-  name-long: policies, documents, treaties
+  name-long: Policies, documents, treaties
   index-weight: 5
   description: |
     The effort to deal with climate change and its impacts leads to international negotiations, treaties and strategic documents, which are the floor foundation of plans and goals on a national level. They also result in a number of mitigation measures: legally binding acts and new financial tools, such as carbon taxes or emissions trading systems, which are aimed to cut greenhouse gas emissions and prevent further global warming. Regions and municipalities also create their own adaptation plans, hoping these will help them tackle the impacts of climate change: they build green roofs in cities, create ponds and wetlands to retain more water or introduce more resilient crops.
 
 - id: economy
   name-short: economy
-  name-long: economy
+  name-long: Economy
   index-weight: 6
   description: |
     Climate change is one of the unintended effects of our economic production – greenhouse gases are emitted during fossil fuels combustion needed for the production and transport of goods and commodities. That is why mitigation measures must have an impact on our economy: with well designed measures that are in line with economic principles, emissions can be reduced quickly and effectively.
 
 - id: nature
   name-short: nature
-  name-long: nature and ecosystems
+  name-long: Nature and ecosystems
   index-weight: 7
   description: |
     While climate change has a major impact on all of biosphere as well as on individual ecosystems, landscape and biodiversity protection also plays a key role in climate change mitigation and adaptation. Forests help retain water and are crucial for biodiversity; trees make hot cities more livable. Agriculture, forest management and other sectors heavily depend on healthy ecosystems. Nature also cleans water and air, which are essential for our lives.

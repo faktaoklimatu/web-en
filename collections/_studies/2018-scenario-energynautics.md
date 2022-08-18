@@ -14,6 +14,4 @@ data-orig:
   - [ "Additional sensitivity analysis", "https://frankbold.org/sites/default/files/publikace/sensitivity_analysis_czech_grid_without_coal_by_2030.pdf" ]
 ---
 
-_Our comments on this infographic providing relevant context and useful links are [only available in Czech](https://faktaoklimatu.cz/studie/2018-scenar-energynautics) at the moment. Please check back later for the English translation._
-
-_If you wish to see the English translation sooner, please contact us at [info@faktaoklimatu.cz](mailto:info@faktaoklimatu.cz) or consider [supporting us financially](https://www.darujme.cz/projekt/1203742)._
+{% include includes-local/comment-placeholder.md slug="studie/2018-scenar-energynautics" %}

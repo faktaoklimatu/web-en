@@ -14,6 +14,4 @@ data-orig:
   - [ "IPCC 2014: ANNEX III", "https://www.ipcc.ch/site/assets/uploads/2018/02/ipcc_wg3_ar5_annex-iii.pdf" ]
 ---
 
-_Our comments on this infographic providing relevant context and useful links are [only available in Czech](https://faktaoklimatu.cz/infografiky/elektrina-sr) at the moment. Please check back later for the English translation._
-
-_If you wish to see the English translation sooner, please contact us at [info@faktaoklimatu.cz](mailto:info@faktaoklimatu.cz) or consider [supporting us financially](https://www.darujme.cz/projekt/1203742)._
+{% include includes-local/comment-placeholder.md slug="infografiky/elektrina-sr" %}

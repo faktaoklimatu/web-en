@@ -15,6 +15,4 @@ data-orig:
   - [ "UN (population)", "https://population.un.org/wpp/Download/Files/1_Indicators%20(Standard)/EXCEL_FILES/1_Population/WPP2019_POP_F01_1_TOTAL_POPULATION_BOTH_SEXES.xlsx" ]
 ---
 
-_Our comments on this infographic providing relevant context and useful links are [only available in Czech](https://faktaoklimatu.cz/infografiky/uhelny-phaseout-eu) at the moment. Please check back later for the English translation._
-
-_If you wish to see the English translation sooner, please contact us at [info@faktaoklimatu.cz](mailto:info@faktaoklimatu.cz) or consider [supporting us financially](https://www.darujme.cz/projekt/1203742)._
+{% include includes-local/comment-placeholder.md slug="infografiky/uhelny-phaseout-eu" %}

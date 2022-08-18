@@ -1,29 +1,13 @@
-- title: Home
-  link: /
-
 - title: Topics
   dropdown: topics
   list-topics: true
 
-- title: More
-  dropdown:
+- title: About
+  link: /about
 
-    - title: How to use our materials
-      link: /how-to-use
+- title: <i class="fab fa-fw fa-twitter"></i>
+  link: https://twitter.com/faktaoklimatu
+  class: no-ext-link-icon
 
-    - title: Support us <i class="fas fa-fw fa-heart"></i>
-      fundraising: true
-      class: no-ext-link-icon
-
-    - title: About
-      link: /about
-
-- title: english
-  lang: en
-  dropdown:
-    - title: Czech
-      lang: cs
-      link: https://faktaoklimatu.cz
-    - title: Slovak
-      lang: sk
-      link: https://faktyoklime.sk
+- title: <i class="d-md-none d-lg-inline fas fa-fw fa-heart"></i> Support us
+  fundraising: true

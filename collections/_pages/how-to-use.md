@@ -27,11 +27,11 @@ All of our materials are under the [Creative Commons Attribution 4.0 Internation
 * **share** – copy and redistribute the material in any medium and format
 * **adapt** – remix, transform and build upon the material for any purpose, even commercially,
 
-if you **give appropriate credit**, i.e. mention us as the original author, include the link to our website, provide the license name and the link to the license and indicate if any changes of the infographic or dataset were made. Your final product may be visually different, depending on the media where it is used (website, newspaper article, etc.), but the credit must be always there.
+if you **give appropriate credit**, i.e. mention us as the original author, include the link to our website, provide the license name and the link to the license and indicate if any changes of the infographic were made. Your final product may be visually different, depending on the media where it is used (website, newspaper article, etc.), but the credit must be always there.
 
-When using our infographic or data, always provide the link to the page with this particular infographic or dataset, not the link to the image. An example: _"The [Greenhouse Gas Emissions in Czechia by Sector](/infographics/emissions-czechia) infographic by [Fakta o klimatu](/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed)."_ 
+When using our infographic, always provide the link to the page with this particular infographic, not the link to the image. An example: _"The [Greenhouse Gas Emissions in Czechia by Sector](/infographics/emissions-czechia) infographic by [Fakta o klimatu](/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed)."_ 
 
-You can also generate the citation directly: click the Share button (with <tt>&lt;/&gt;</tt> symbol) in the "Sharing and license" section on the page with the infographic or dataset.
+You can also generate the citation directly: click the Share button (with <tt>&lt;/&gt;</tt> symbol) in the "Sharing and license" section on the page with the infographic.
 
 <figure class="d-md-none w-100 mt-2">
 <a href="/infographics/emissions-czechia"><img src="/assets/generated/emissions-czechia_600.png" class="rounded w-100" alt="Greenhouse Gas Emissions in Czechia by Sector in Detail" /></a>
@@ -44,21 +44,13 @@ You can also generate the citation directly: click the Share button (with <tt>&l
 <div class="section">
 <div class="container" markdown="1">
 {:#file-formats}
-## Available formats: infographics
+## Available formats
 
 All of our infographics are downloadable. Choose the format of your preference: vector graphic (PDF or SVG) or raster graphic (different sizes of PNG).
 
 * If you want to use the infographic "as is" (on your website, in a text document or in an email to friends), download the PNG file.
 * If you intend to make any changes, download the SVG file and open it in your vector graphics editor, such as [Inkscape](https://inkscape.org/) or Adobe Illustrator.
 * If you want to print the infographic, download the PDF file.
-
-## Available formats: underlying data
-
-You can also access the underlying data used in our infographics.
-
-* By clicking "Our dataset" next to an infographic, you can access the page where you will find the data that we were using when working on this particular infographic (incl. a description of this data and other useful links).
-* By clicking "Our data table" next to an infographic or dataset you can access the data table that we have created. The data that we have made and processed are under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.cs) license, which means you can download, adapt and publish this data if you give credit to us as the original author and include the link to the license. Please note that this input data often has its own license (provided in the table for each source).
-* By clicking "Source data" next to an infographic or dataset, you can access the original data collected, created or processed by other institutions. Please note that this data often has its own license (provided in the table for each source).
 </div>
 </div>
 

@@ -28,7 +28,7 @@ caption:       "Climate change is not just a change of temperature – this umbr
 
 * **Higher concentrations of CO<sub>2</sub>** and other greenhouse gases in the atmosphere lead to a more potent greenhouse effect. Heat radiation, which would otherwise be emitted by planet Earth into space, is absorbed by greenhouse gases and returned to the surface. The earth is therefore warming.
 
-* The intensified greenhouse effect leads to the **warming of air** and ocean water. Since the industrial revolution, air temperatures have risen by an average of 1.2°C. Still, most of the heat has been absorbed by ocean water, whose temperature has also been rising for a long time. Temperature change is different in different places - the northern polar regions are warming four times faster than the oceans (see [Temperature Change Map](/infografiky/mapa-zmeny-teploty)).
+* The intensified greenhouse effect leads to the **warming of air** and ocean water. Since the industrial revolution, air temperatures have risen by an average of 1.2°C. Still, most of the heat has been absorbed by ocean water, whose temperature has also been rising for a long time. Temperature change is different in different places - the northern polar regions are warming four times faster than the oceans (see [Temperature Change Map](/infographics/map-temperature-change)).
 
 * The warming of the planet leads to more frequent heat waves, stronger hurricanes, more severe and longer dry periods, but also to heavier rains and floods - that is, to more frequent occurrences of **extreme events**.
 

@@ -3,7 +3,7 @@ layout:        infographic
 title:         "Climate change scheme"
 slug:          "climate-change-scheme"
 redirect_from: "/climate-change-scheme"
-published:     2022-07-26
+published:     2022-11-13
 weight:        80
 tags-scopes:   [ world ]
 tags-topics:   [ climate ]

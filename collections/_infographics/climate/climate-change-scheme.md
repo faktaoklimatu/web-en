@@ -20,11 +20,13 @@ caption:       "Climate change is not just a change of temperature – this umbr
 
 * Human activity led by **burning fossil fuels** (coal, oil and natural gas) leads to an increase in the concentration of carbon dioxide (CO<sub>2</sub>) in the atmosphere. About 35 billion tons are produced annually in energy, transport and industry, while deforestation adds another 5 billion tons. The average inhabitant of the planet, therefore, accounts for about 5 tons of CO<sub>2</sub> per year. Human activity thus leads to increased CO<sub>2</sub> concentrations in the atmosphere<!--  (see [Cycles of CO<sub>2</sub> and O<sub>2</sub> concentrations in the atmosphere](/infografiky/cykly-koncentrace-co2))-->. In addition to CO<sub>2</sub>, greenhouse gases also include methane (CH<sub>4</sub>) and nitrous oxide (N<sub>2</sub>O), which arise in agriculture during cattle breeding, rice cultivation or the use of industrial fertilizers.
 
-<!-- {% include preview-box.html
+{% comment %}
+{% include preview-box.html
     title="CO<sub>2</sub> concentration since 1960"
     text="The Keeling curve shows the fluctuation of CO<sub>2</sub> concentrations throughout the year as well as the long-term increase caused by the burning of fossil fuels."
     slug="cykly-koncentrace-co2"
-%} -->
+%}
+{% endcomment %}
 
 * **Higher concentrations of CO<sub>2</sub>** and other greenhouse gases in the atmosphere lead to a more potent greenhouse effect. Heat radiation, which would otherwise be emitted by planet Earth into space, is absorbed by greenhouse gases and returned to the surface. The earth is therefore warming.
 
@@ -32,10 +34,12 @@ caption:       "Climate change is not just a change of temperature – this umbr
 
 * The warming of the planet leads to more frequent heat waves, stronger hurricanes, more severe and longer dry periods, but also to heavier rains and floods - that is, to more frequent occurrences of **extreme events**.
 
-<!-- {% include preview-box.html
+{% comment %}
+{% include preview-box.html
     text="Ocean acidification and rising water temperatures are causing corals to die."
     slug="vymirani-koralovych-utesu"
-%} -->
+%}
+{% endcomment %}
 
 * Atmospheric CO<sub>2</sub> partially dissolves in the ocean, where it forms carbonic acid. This leads to a drop in pH, or **ocean acidification**, which is dangerous for corals and other marine life.
 

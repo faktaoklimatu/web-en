@@ -7,7 +7,8 @@ sitemap: true
 <div class="section intro pb-4">
     <div class="container">
         <h1 class="display-1" id="home">Facts on Climate<br>Change</h1>
-        <p>We collect various climate change data provided by Czech and international research and monitoring institutions (CHMI, NASA, Eurostat, etc.) and present this data in our graphs and infographics for <a href="/how-to-use" title="How to use our materials">further use</a>.<br/>
+        <span class="tagline">Publicly available <span class='nobr'>infographics, explainers and data</span></span>
+        <p>We are a team of independent analysts and experts, committed to cultivating the debate on climate change to be factual, constructive and based on science and verified data.<br/>
         </p>
         <p class="intro-buttons">
             <a href="{{ site.fundraising }}" class="btn btn-primary"><i class="fas fa-fw fa-heart"></i> Support us</a>
@@ -19,17 +20,28 @@ sitemap: true
 
 <div class="section pt-4 bg-extralight-blue"><div class="container" markdown="1">
 {: .display-2}
+## Featured
+
+<p class="lead mb-0">New to the topic? Want to learn about climate change, its relationship to the level of emissions, temperature change and future predictions? Start with the infographics below.</p>
+    {% assign featured_slugs = "climate-change-scheme, concentration-warming-relationship, map-temperature-change, emission-pathways-paris, fossil-fuels-emissions, tipping-points-1" | split: ", " %}
+    {%- include preview-blocks-expandable.html slugs=featured_slugs rows=2 %}
+</div></div>
+
+{%- comment -%}
+<div class="section pt-4 bg-extralight-blue"><div class="container" markdown="1">
+{: .display-2}
 ## New materials
 
 <p class="lead mb-0">Are you interested in our new releases? In this section, you will find our newest infographics, explainers and summaries.</p>
 {% assign slugs = site.infographics | concat: site.studies | concat: site.datasets | concat: site.explainers | sort: "published" | reverse | map: "slug" | slice: 0, 6 %}
 {% include preview-blocks-expandable.html slugs=slugs %}
 </div></div>
+{%- endcomment -%}
 
 {% assign sorted_index_tags = site.data.tags | where_exp: "item", "item.index-weight > 0" | sort: "index-weight" %}
 <div class="section"><div class="container" markdown="1">
 {: .display-2}
-## Key project areas 
+## Key project areas
 
 {:.lead}
 Climate change is a complex of interrelated phenomena. That is why the data that we collect, process and present is related to a number of areas of human activity – from economy to politics and power industry. Our materials are grouped in the following categories:

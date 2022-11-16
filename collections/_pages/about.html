@@ -5,48 +5,63 @@ slug: about
 intro: "The debate about climate change is complicated and full of emotions, half-truths and myths. We want to draw attention to the most important issues and build bridges between scientists and all people who are affected by climate change. Which means everyone. We communicate with journalists, politicians, stakeholders as well as activists and the general public. We are an independent think tank and our budget is based on donations and grants."
 ---
 
-<div class="section">
-    <div class="container">
-        <h1>{{ page.title }}</h1>
-        <p class="lead">{{ page.intro }}</p>
-        <img src="/assets-local/team/tym-fakta-o-klimatu.jpg" class="img-fluid mb-1" alt="Fakta o klimatu Team">
-    </div>
-</div>
+<div class="section"><div class="container">
+    <h1>{{ page.title }}</h1>
+    <p class="lead">{{ page.intro }}</p>
+    <img src="/assets-local/team/tym-fakta-o-klimatu.jpg" class="img-fluid mb-1" alt="Fakta o klimatu Team">
+</div></div>
+<div class="section"><div class="container">
 
 {%- assign groups = site.data.organization-members -%}
 {%- for group in groups %}
-    <div class="section">
-        <div class="container">
-            <h2 id="members">{{ group.title }}</h2>
-            <p class="lead">{{ group.lead }}</p>
-            <div class="row mt-2">
-                {%- assign members = group.members -%}
-                {%- for item in members %}
-                <div class="{{ group.class }}">
-                    <div class="card bg-transparent border-0">
-                        {%- if item.img %}
-                            <div class="text-center">
-                                <img class="card-img-top p-2 team-photo" src="/assets-local/team/{{item.img}}" alt="{{item.name}}">
-                            </div>
-                        {%- endif %}
-                        <div class="card-body d-flex flex-column">
-                            <h5 class="card-title text-center">
-                                <span class="pr-2">{{ item.name }}</span>
-                                {%- if item.linkedin %}<a class="no-ext-link-icon" href="{{ item.linkedin }}"><span class="fab fa-fw fa-linkedin"></span></a>{% endif %}
-                                {%- if item.twitter %}<a class="no-ext-link-icon" href="{{ item.twitter }}"><span class="fab fa-fw fa-twitter"></span></a>{% endif %}
-                            </h5>
-                            <h6 class="card-subtitle mb-3 text-muted text-center">{{ item.position }}</h6>
-                            <div class="card-text mb-3 text-center">{{ item.summary | markdownify }}</div>
-                            {%- if item.email %}
-                            <div class="mt-auto text-center">
-                                <a class="align-self-end" href="mailto:{{ item.email }}">{{ item.email }}</a>
-                            </div>
-                            {% endif -%}
-                        </div>
-                    </div>
+<h2 id="members">{{ group.title }}</h2>
+<p class="lead">{{ group.lead }}</p>
+<div class="row mt-2">
+    {%- assign members = group.members -%}
+    {%- for item in members %}
+    <div class="{{ group.class }}">
+        <div class="card bg-transparent border-0">
+            {%- if item.img %}
+                <div class="text-center">
+                    <img class="card-img-top p-2 team-photo" src="/assets-local/team/{{item.img}}" alt="{{item.name}}">
                 </div>
-                {%- endfor %}
+            {%- endif %}
+            <div class="card-body d-flex flex-column">
+                <h5 class="card-title text-center">
+                    <span class="pr-2">{{ item.name }}</span>
+                    {%- if item.linkedin %}<a class="no-ext-link-icon" href="{{ item.linkedin }}"><span class="fab fa-fw fa-linkedin"></span></a>{% endif %}
+                    {%- if item.twitter %}<a class="no-ext-link-icon" href="{{ item.twitter }}"><span class="fab fa-fw fa-twitter"></span></a>{% endif %}
+                </h5>
+                <h6 class="card-subtitle mb-3 text-muted text-center">{{ item.position }}</h6>
+                <div class="card-text mb-3 text-center">{{ item.summary | markdownify }}</div>
+                {%- if item.email %}
+                <div class="mt-auto text-center">
+                    <a class="align-self-end" href="mailto:{{ item.email }}">{{ item.email }}</a>
+                </div>
+                {% endif -%}
             </div>
         </div>
     </div>
+    {%- endfor %}
+</div>
 {%- endfor %}
+
+</div></div>
+<div class="section"><div class="container">
+
+<h2>Support and partnerships</h2>
+<div class="lead narrow-text">
+    <p>Support and cooperation with other partners is crucial to the success of our work. In order to devote the necessary time to creating quality research, infographics and explainers, we need sufficient funding. That enables us to fully commit to making our outputs to lead to constructive discussion on climate change and related societal transformation and to data-driven decisions.</p>
+    <p>In addition to <a href="https://www.darujme.cz/projekt/1203742">individual donors</a>, our work has benefited from significant support from several companies and institutions (below, we list institutions that have provided us financial support of over 4,000 EUR). Thank you!</p>
+</div>
+<div class="logos mt-5 mb-4">
+    <img loading="eager" src="/assets-local/about/logo-ecf.png" alt="European Climate Foundation">
+    <img loading="eager" src="/assets-local/about/logo-miton.png" alt="Miton">
+    <img loading="eager" src="/assets-local/about/logo-omg.png" alt="OMG Media Group">
+    <img loading="eager" src="/assets-local/about/logo-british-embassy.png" alt="British Embassy in Prague">
+    <img loading="eager" src="/assets-local/about/logo-impact-hub.png" alt="Impact Hub">
+    <img loading="eager" src="/assets-local/about/logo-climate-kic.png" alt="Climate-KIC">
+    <img loading="eager" src="/assets-local/about/logo-climate-challenge.png" alt="Climate Challenge">
+</div>
+
+</div></div>

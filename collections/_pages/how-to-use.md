@@ -61,7 +61,7 @@ All of our infographics are downloadable. Choose the format of your preference: 
 
 If you need to consult with us how to use our infographics or data (e.g. you want to publish them in the media), please let us know at [info@faktaoklimatu.cz](mailto:info@faktaoklimatu.cz). You can also contact our Director Ondráš Přibyla at [ondras.pribyla@faktaoklimatu.cz](mailto:ondras.pribyla@faktaoklimatu.cz) or call him at +420 775 988 882.
 
-For a brief summary of our project, please go to [About project](/#o-projektu).
+For a brief summary of our project, please go to [About project](/#about).
 
 You can also send us your comments or let us know how you used our materials. Your feedback helps us improve our work.
 </div>

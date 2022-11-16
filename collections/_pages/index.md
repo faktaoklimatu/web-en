@@ -69,30 +69,75 @@ Climate change is a complex of interrelated phenomena. That is why the data that
 </div> <!-- accordion end -->
 
 </div></div>
-
 <div class="section"><div class="container clearfix" markdown="1">
-{:#o-projektu .display-2}
-## About us and our work
+{:#about .display-2}
+## About our work
 
-{:.lead}
-We would like to contribute to a more evidence-based Czech public debate about climate change.
-We create easy-to-understand visual and text materials and communicate the latest research findings to support key decisions in the Czech Republic that are related to climate change and a transition to a net zero economy.
+<div class="row about-us lead mb-5 justify-content-between">
+<div class="col-12 col-md-6 pt-2 pt-md-4" markdown="1">
 
-{:.lead}
-The debate about climate change is complicated and full of emotions, half-truths and myths. We want to highlight the most important issues and build bridges between scientists and all people affected by climate change. Which means all people.
+**We do research and analytical work**. We browse the data and look for aspects relevant to a deeper understanding of climate change, its impacts and possible solutions. We accentuate the regional matters of Czechia and Europe but do not omit global views.
 
-{:.lead}
-We are a team of professionals with various skills and expertise – science, IT, communication and teaching – and we communicate with journalists, politicians, stakeholders as well as activists. We are an independent think tank and our budget is based on donations and grants.
+**We communicate to key audiences**. We create data visualizations, articles, podcasts or lectures for the general public and clients from both the private and public sectors.
 
-<div class="row">
-  <a href="/about" class="btn btn-primary btn-md-lg col"><i class="fas fa-fw fa-info"></i> More about our project</a>
-  <a href="{{ site.fundraising }}" class="btn btn-primary btn-md-lg col"><i class="fas fa-fw fa-heart"></i> Support us</a>
+</div>
+<div class="col-12 col-md-6 col-lg-5 pt-4" markdown="1">
+### We strive for
+
+{:.arrow}
+* **Clear and publicly accessible information** on climate change and possible pathways to a zero-emission society
+* **Political decisions grounded in data** and rigorous analyses
+* **An educated and informed society**, a constructive public debate and high-quality news coverage
 </div>
 
-<a href="https://www.climate-kic.org/" class="no-ext-link-icon"><img class="index-logos float-md-right" src="/assets-local/img/logo-climate-kic.png" alt="Climate-KIC logo"/></a>
-<a href="https://climatechallenge.impacthub.cz/" class="no-ext-link-icon"><img class="index-logos float-md-right" src="/assets-local/img/logo-climate-challenge.png" alt="Climate Challenge logo"/></a>
+<div class="col-12 mt-3">
+<a href="/about" class="btn btn-primary btn-md-lg"><i class="fas fa-fw fa-info"></i> More about our project</a>
+</div>
+</div>
+
+{:.display-3}
+### Awards
+
+<div class="row about-us lead">
+    <div class="col-12 col-md-6 col-lg-4 p-3 p-md-4 price">
+        <div class="price-1"></div>
+        <div>
+            <strong>Award for the communication of climate change</strong> (2020) from the Czech Learned Society and United Nations Information Centre in Prague
+        </div>
+    </div>
+    <div class="col-12 col-md-6 col-lg-4 p-3 p-md-4 price">
+        <div class="price-2"></div>
+        <div>
+            First price in the <strong>Climate Challenge</strong> accelerator (2020)
+        </div>
+    </div>
+    <div class="col-12 col-md-6 col-lg-4 p-3 p-md-4 price">
+        <div class="price-3"></div>
+        <div>
+            <strong>AFO Olomouc Award</strong> for a significant contribution to the popularization of science (2022)
+        </div>
+    </div>
+</div>
+
+</div></div>
+<div class="section"><div class="container clearfix" markdown="1">
+
+{:.display-2 .mb-3}
+## Who is using our materials?
 
 {:.lead}
-In 2020, we received the best project award in the [Climate Challenge](https://climatechallenge.impacthub.cz/) Acceleration Program, which is organized by a network of business incubators called [Impact Hub](https://impacthub.cz) and we were supported by [Climate-KIC](https://www.climate-kic.org/), the European initiative searching for innovative solutions to the current climate crisis.
+Our infographics and texts are used by Czech and foreign institutions, news portals, consulting companies, schools and other actors.
+
+<div class="logos mt-md-5 mb-md-4">
+<img loading="eager" class="small" src="/assets-local/about/logo-cnb.png" alt="Czech National Bank">
+<img loading="eager" class="small" src="/assets-local/about/logo-mzp.png" alt="Ministry of the Environment of the Czech Republic">
+<img loading="eager" src="/assets-local/about/logo-pwc.png" alt="PwC">
+<img loading="eager" class="small" src="/assets-local/about/logo-omg.png" alt="OMG Media Group">
+<img loading="eager" src="/assets-local/about/logo-mckinsey.png" alt="McKinsey">
+<img loading="eager" class="small" src="/assets-local/about/logo-seznam-zpravy.png" alt="Seznam Zprávy">
+<img loading="eager" class="small" src="/assets-local/about/logo-irozhlas.png" alt="iRozhlas">
+<img loading="eager" class="small" src="/assets-local/about/logo-respekt.png" alt="Respekt">
+<img loading="eager" class="small" src="/assets-local/about/logo-deloitte.png" alt="Deloitte">
+</div>
 
 </div></div>

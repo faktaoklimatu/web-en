@@ -11,9 +11,8 @@ sitemap: true
         <p>We are a team of independent analysts and experts, committed to cultivating the debate on climate change to be factual, constructive and based on science and verified data.<br/>
         </p>
         <p class="intro-buttons">
-            <a href="{{ site.fundraising }}" class="btn btn-primary"><i class="fas fa-fw fa-heart"></i> Support us</a>
-            <a href="https://twitter.com/{{ site.twitter }}" target="_blank" class="btn btn-secondary"><i class="fab fa-fw fa-twitter"></i> Twitter</a>
-            <a href="#o-projektu" class="btn btn-secondary"><i class="fas fa-fw fa-info"></i> More about project</a>
+            <a href="#about" class="btn btn-secondary"><i class="fas fa-fw fa-info"></i> More about project</a>
+            <a href="https://twitter.com/{{ site.twitter }}" class="btn btn-secondary"><i class="fab fa-fw fa-twitter"></i> Twitter (CZ)</a>
         </p>
     </div>
 </div>
@@ -23,8 +22,12 @@ sitemap: true
 ## Featured
 
 <p class="lead mb-0">New to the topic? Want to learn about climate change, its relationship to the level of emissions, temperature change and future predictions? Start with the infographics below.</p>
-    {% assign featured_slugs = "climate-change-scheme, concentration-warming-relationship, map-temperature-change, emission-pathways-paris, fossil-fuels-emissions, tipping-points-1" | split: ", " %}
-    {%- include preview-blocks-expandable.html slugs=featured_slugs rows=2 %}
+{% assign featured_slugs = "climate-change-scheme, concentration-warming-relationship, map-temperature-change, emission-pathways-paris, fossil-fuels-emissions, tipping-points-1" | split: ", " %}
+{%- include preview-blocks-expandable.html slugs=featured_slugs rows=2 %}
+<div class="alert alert-info data-staleness" role="alert">
+    <h5 class="alert-heading"><i class="fas fa-lightbulb"></i> Work in progress </h5>
+    <p>This website is the initial English version of a successful Czech project <a href="https://faktaoklimatu.cz">Fakta o klimatu</a>. At the moment, only a fraction of the content is available in English. If you like what you see, you can support further work via the <a href="{{ site.benevity }}">Benevity Cause</a> via your employer CSR program or directly using the <a href="{{ site.fundraising }}">Czech donation page</a>.</p>
+</div>
 </div></div>
 
 {%- comment -%}

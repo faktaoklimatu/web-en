@@ -7,9 +7,8 @@ sitemap: true
 <div class="section intro pb-4">
     <div class="container">
         <h1 class="display-1" id="home">Facts on Climate<br>Change</h1>
-        <span class="tagline">Publicly available <span class='nobr'>infographics, explainers and data</span></span>
-        <p>We are a team of independent analysts and experts, committed to cultivating the debate on climate change to be factual, constructive and based on science and verified data.<br/>
-        </p>
+        <span class="tagline">Publicly available <span class='nobr'>infographics and explainers</span></span>
+        <p>We are a team of independent analysts and experts, committed to cultivating the debate on climate change to be factual, constructive and based on science and verified data.</p>
         <p class="intro-buttons">
             <a href="#about" class="btn btn-secondary"><i class="fas fa-fw fa-info"></i> More about project</a>
             <a href="https://twitter.com/{{ site.twitter }}" class="btn btn-secondary"><i class="fab fa-fw fa-twitter"></i> Twitter (CZ)</a>
@@ -29,17 +28,6 @@ sitemap: true
     <p>This website is the initial English version of a successful Czech project <a href="https://faktaoklimatu.cz">Fakta o klimatu</a>. At the moment, only a fraction of the content is available in English. If you like what you see, you can support further work via the <a href="{{ site.benevity }}">Benevity Cause</a> via your employer CSR program or directly using the <a href="{{ site.fundraising }}">Czech donation page</a>.</p>
 </div>
 </div></div>
-
-{%- comment -%}
-<div class="section pt-4 bg-extralight-blue"><div class="container" markdown="1">
-{: .display-2}
-## New materials
-
-<p class="lead mb-0">Are you interested in our new releases? In this section, you will find our newest infographics, explainers and summaries.</p>
-{% assign slugs = site.infographics | concat: site.studies | concat: site.datasets | concat: site.explainers | sort: "published" | reverse | map: "slug" | slice: 0, 6 %}
-{% include preview-blocks-expandable.html slugs=slugs %}
-</div></div>
-{%- endcomment -%}
 
 {% assign sorted_index_tags = site.data.tags | where_exp: "item", "item.index-weight > 0" | sort: "index-weight" %}
 <div class="section"><div class="container" markdown="1">
@@ -79,7 +67,7 @@ Climate change is a complex of interrelated phenomena. That is why the data that
 <div class="row about-us lead mb-5 justify-content-between">
 <div class="col-12 col-md-6 pt-2 pt-md-4" markdown="1">
 
-**We do research and analytical work**. We browse the data and look for aspects relevant to a deeper understanding of climate change, its impacts and possible solutions. We accentuate the regional matters of Czechia and Europe but do not omit global views.
+**We do research and analytical work**. We sift through the data, searching for bits that help a deeper understanding of climate change, its impacts and possible solutions. We accentuate the regional matters of Czechia and Europe but do not omit global views.
 
 **We communicate to key audiences**. We create data visualizations, articles, podcasts or lectures for the general public and clients from both the private and public sectors.
 
@@ -88,7 +76,7 @@ Climate change is a complex of interrelated phenomena. That is why the data that
 ### We strive for
 
 {:.arrow}
-* **Clear and publicly accessible information** on climate change and possible pathways to a zero-emission society
+* **Clear and publicly accessible information** on climate change and possible pathways to a net-zero society
 * **Political decisions grounded in data** and rigorous analyses
 * **An educated and informed society**, a constructive public debate and high-quality news coverage
 </div>
@@ -111,7 +99,7 @@ Climate change is a complex of interrelated phenomena. That is why the data that
     <div class="col-12 col-md-6 col-lg-4 p-3 p-md-4 price">
         <div class="price-2"></div>
         <div>
-            First price in the <strong>Climate Challenge</strong> accelerator (2020)
+            First price in the Czech <strong>Climate Challenge</strong> accelerator (2020)
         </div>
     </div>
     <div class="col-12 col-md-6 col-lg-4 p-3 p-md-4 price">

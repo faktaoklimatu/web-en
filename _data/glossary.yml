@@ -21,3 +21,8 @@
 - id: phase-out
   name-short: "Coal phase-out"
   description: "For electricity generation, coal-fired power plants produce almost twice as much CO<sub>2</sub> emissions as gas-fired power plants and almost a hundred times more than renewables or nuclear power plants. Coal phase-out refers to the shutdown of coal-fired power plants and their replacement by sources of electricity with lower emissions."
+
+- id: rcp
+  name-short: "RCP"
+  name-long: "Representative Concentration Pathway"
+  description: "_Representative trends in concentrations_ are different scenarios for the evolution of greenhouse gas concentrations. They are labelled according to the approximate total radiative forcing in 2100 compared to 1750, e.g. scenario _RCP2.6_ means 2.6 W/m<sup>2</sup>[[wikipedia](https://en.wikipedia.org/wiki/Representative_Concentration_Pathway)]"

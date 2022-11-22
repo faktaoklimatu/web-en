@@ -3,6 +3,11 @@
 # example of use:
 #   `significant amount of <glossary id="co2eq">CO<sub>2</sub>eq</glossary>`
 
+- id: ipcc
+  name-short: "IPCC"
+  name-long: "Intergovernmental Panel on Climate Change"
+  description: "The _Intergovernmental Panel on Climate Change_ is a scientific body established in 1988 to assess the risks of climate change, confirmed by the UN General Assembly in Resolution 43/53. The mission of the IPCC is to provide a comprehensive scientific assessment of current scientific, technical and socio-economic information from around the world on the dangers of climate change caused by human activities, their potential environmental and socio-economic consequences, and the options for adapting to or mitigating these consequences. The IPCC is the internationally recognized authority on climate change, producing reports that are the agreement of leading climatologists and the consensus of participating governments. This provides authoritative policy advice with far-reaching implications for the economy and lifestyle [[wikipedia](https://en.wikipedia.org/wiki/Intergovernmental_Panel_on_Climate_Change)]."
+
 - id: noaa
   name-short: "NOAA"
   name-long: "National Oceanic and Atmospheric Administration"

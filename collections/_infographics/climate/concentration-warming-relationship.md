@@ -47,7 +47,7 @@ Is it correct to state that every time the CO<sub>2</sub> concentration rises by
 
 * Carbon dioxide is responsible for about 70% of global warming.[^6] The remaining 30% is due to other greenhouse gases, mainly methane and nitrous oxide, which are also increasing in the atmosphere. Along with greenhouse gases, however, mankind also emits aerosols, which have a cooling effect on the planet by reflecting solar radiation and contributing to the formation of clouds.[^7] The global warming shown includes all these phenomena, but only CO<sub>2</sub> concentrations are plotted on the horizontal axis. **Thus, the claim of direct proportionality between concentration increases and warming is misleading in that it only shows a dependence on the dominant factor.** However, because the cooling effect of aerosols and the warming effect of other greenhouse gases partially cancel each other out, it can be argued that CO<sub>2</sub> is the driving factor behind well over 70% of global warming.
 
-## Where the data in this infographic comes from?
+## Where does the data in this infographic come from?
 
 * Temperature anomaly values for each year are from the *NASA Goddard Institute for Space Studies* dataset.<!-- For more on the concept of temperature anomaly, see the accompanying text to the infographic [Evolution of the global temperature anomaly](/infografiky/vyvoj-teplotni-anomalie).-->
 

@@ -57,7 +57,7 @@ Is it correct to state that every time the CO<sub>2</sub> concentration rises by
 
 ## Historical note
 
-The link between global warming and atmospheric carbon dioxide concentration is one of the keys and longest-studied links in the study of climate change. The first calculations were published by Svante Arrhenius in 1886, and his estimates of climate sensitivity have been confirmed and refined by subsequent studies.<!-- More in graphics and text [History of greenhouse effect research](/infografiky/historie-sklenikoveho-efektu).-->
+The link between global warming and atmospheric carbon dioxide concentration is one of the most crucial and longest-studied relationships in the study of climate change. The first calculations were published by Svante Arrhenius in 1886, and his estimates of climate sensitivity have been confirmed and refined by subsequent studies.<!-- More in graphics and text [History of greenhouse effect research](/infografiky/historie-sklenikoveho-efektu).-->
 
 ## Sources and notes
 

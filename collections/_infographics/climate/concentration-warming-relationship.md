@@ -35,7 +35,7 @@ The dominant effect of carbon dioxide on global warming is well established, so 
 On the other hand, many other factors also influence global warming: other greenhouse gases, currents in the atmosphere and ocean that distribute heat around the planet, as well as aerosols and cloud formation (the shading effect). 
 Is it correct to state that every time the CO<sub>2</sub> concentration rises by 10 ppm also leads to a rise in temperature of about 0.1 °C? The following paragraphs show how this relationship is only an approximation.
 
-* The theoretically derived relationship for the dependence of global warming on greenhouse gas concentration is logarithmic. [^1] [^11] However, a small range of concentrations can be well approximated by a linear relationship, as shown by the measured data.
+* The theoretically derived relationship for the dependence of global warming on greenhouse gas concentration is logarithmic. [^1] [^11] However, for a small range of concentrations, we can approximate this relationship reasonably well with a linear relationship, as shown by the measured data.
 
     $$
     \Delta T(c) = S \cdot \log_2 \left(\frac{c_0 + \Delta c}{c_0}\right) \approx \frac{S}{c_0 \ln 2} \cdot \Delta c

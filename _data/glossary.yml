@@ -26,3 +26,8 @@
   name-short: "RCP"
   name-long: "Representative Concentration Pathway"
   description: "_Representative trends in concentrations_ are different scenarios for the evolution of greenhouse gas concentrations. They are labelled according to the approximate total radiative forcing in 2100 compared to 1750, e.g. scenario _RCP2.6_ means 2.6 W/m<sup>2</sup>[[wikipedia](https://en.wikipedia.org/wiki/Representative_Concentration_Pathway)]"
+
+- id: w
+  name-short: "W and Wh (kW, MW… and kWh, MWh…)"
+  name-long: "watt, watt-hour and their multiples"
+  description: "In our context, watts (and multiples thereof) are most often encountered in the context of the energy sector, typically power plant output. Example: the output of the Czech Chvaletice lignite power plant is 820 MW (1 MW = one million watts) and it produces about 3500 GWh of electricity per year. [[wikipedia](https://en.wikipedia.org/wiki/Chvaletice_Power_Station)]. One standard LED \"bulb\" has a power consumption of about 9 W, its classic old equivalent with a filament of about 60 W - if you leave it on for an hour, you will consume about 9 (or 60) Wh (watt-hours) of energy. The net electricity consumption in Czech households is about 1.4 MWh/person/year. [[Czech Statistical Office](https://vdb.czso.cz/vdbvo2/faces/en/index.jsf?page=vystup-objekt-vyhledavani&vyhltext=spotřeba+elektřiny&bkvt=c3BvdMWZZWJhIGVsZWt0xZlpbnk.&katalog=all&pvo=ENE04#w=)]"

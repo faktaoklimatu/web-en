@@ -3,6 +3,10 @@
 # example of use:
 #   `significant amount of <glossary id="co2eq">CO<sub>2</sub>eq</glossary>`
 
+- id: anthropogenicgreenhousegases
+  name-short: "Anthropogenic greenhouse gases"
+  description: "Currently, countries bound by the _UNFCCC_ and the _Kyoto Protocol_ are obliged to keep an inventory of emissions [7 greenhouse gases](https://ghgprotocol.org/sites/default/files/standards_supporting/Required%20gases%20and%20GWP%20values.pdf): _anthropogenic CO<sub>2</sub>_ (carbon dioxide), _CH<sub>4</sub>_ (methane), _N<sub>2</sub>O_ (nitrous oxide), _PFCs_ (fully fluorinated hydrocarbons), _HFCs_ (Hydrocarbons), _SF<sub>6</sub>_ (sulfur fluoride) and _NF<sub>3</sub>_ (nitrogen fluoride), which are gases that contribute greatly to the greenhouse effect (see _CO<sub>2</sub>eq_ below)."
+
 - id: ipcc
   name-short: "IPCC"
   name-long: "Intergovernmental Panel on Climate Change"

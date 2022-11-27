@@ -8,6 +8,10 @@
   name-long: "Intergovernmental Panel on Climate Change"
   description: "The _Intergovernmental Panel on Climate Change_ is a scientific body established in 1988 to assess the risks of climate change, confirmed by the UN General Assembly in Resolution 43/53. The mission of the IPCC is to provide a comprehensive scientific assessment of current scientific, technical and socio-economic information from around the world on the dangers of climate change caused by human activities, their potential environmental and socio-economic consequences, and the options for adapting to or mitigating these consequences. The IPCC is the internationally recognized authority on climate change, producing reports that are the agreement of leading climatologists and the consensus of participating governments. This provides authoritative policy advice with far-reaching implications for the economy and lifestyle [[wikipedia](https://en.wikipedia.org/wiki/Intergovernmental_Panel_on_Climate_Change)]."
 
+- id: anthropogenicgreenhousegases
+  name-short: "Anthropogenic greenhouse gases"
+  description: "Currently, countries bound by the _UNFCCC_ and the _Kyoto Protocol_ are obliged to keep an inventory of emissions [7 greenhouse gases](https://ghgprotocol.org/sites/default/files/standards_supporting/Required%20gases%20and%20GWP%20values.pdf): _anthropogenic CO<sub>2</sub>_ (carbon dioxide), _CH<sub>4</sub>_ (methane), _N<sub>2</sub>O_ (nitrous oxide), _PFCs_ (fully fluorinated hydrocarbons), _HFCs_ (Hydrocarbons), _SF<sub>6</sub>_ (sulfur fluoride) and _NF<sub>3</sub>_ (nitrogen fluoride), which are gases that contribute greatly to the greenhouse effect (see _CO<sub>2</sub>eq_ below)."
+
 - id: co2eq
   name-short: "CO<sub>2</sub>eq"
   name-long: "CO<sub>2</sub> equivalent"

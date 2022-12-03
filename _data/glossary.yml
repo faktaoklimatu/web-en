@@ -12,6 +12,10 @@
   name-short: "Adaptation"
   description: "The process of adapting to the impacts of climate change and trying to reduce the damage caused. Examples of current adaptation measures include flood defences, changes in crop cultivation or relocation to higher areas that will not be affected by sea level rise. Some of the expected impacts of climate change, such as stronger hurricanes or the spread of tropical diseases, allow only minimal prevention and will be costly to manage."
 
+- id: carbon-lock-in
+  name-short: "Carbon lock-in"
+  description: "Carbon lock-in, or more precisely the locking of carbon emissions, refers to a situation where large investments in polluting infrastructure prevent the transition to low-emission technologies in the near future, so as not to depreciate previously invested funds. A typical example is investment in large fossil infrastructure, such as gas pipelines, coal-fired power plants or mining and mining infrastructure, which, due to their long-term nature, can cause emissions for many decades to come. These investments can also facilitate future investments in similar infrastructure due to economies of scale. [[wikipedia]](https://en.wikipedia.org/wiki/Carbon_lock-in)"
+
 - id: co2eq
   name-short: "CO<sub>2</sub>eq"
   name-long: "CO<sub>2</sub> equivalent"

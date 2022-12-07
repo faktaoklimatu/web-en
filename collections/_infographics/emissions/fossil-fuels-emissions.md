@@ -16,7 +16,7 @@ data-orig:
 ## How to read this graph?
 
 * The graph shows **worldwide emissions from burning coal, oil and natural gas** and, for comparison, **emissions from cement production**. Total emissions from these sources for 2019 were 35,897 million tons of CO<sub>2</sub>.
-* The graph only shows emissions from the chemical reaction CaCO<sub>3</sub> + heat ⟶ CaO + CO<sub>2</sub> as emissions from cement production. Emissions created by burning coal or gas for heating are counted as emissions of the respective fuel.
+* The graph only shows emissions from the chemical reaction CaCO<sub>3</sub> + heat → CaO + CO<sub>2</sub> as emissions from cement production. Emissions created by burning coal or gas for heating are counted as emissions of the respective fuel.
 
 ## More about individual fuels and cement
 

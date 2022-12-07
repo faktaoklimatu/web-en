@@ -30,7 +30,7 @@ data-orig:
 
 ### Coal
 
-* **Usage:** Primarily for the production of electricity and heat ([Mapped worlds coal power plants](https://www.carbonbrief.org/mapped-worlds-coal-power-plants)) in the iron or glass smelting industry or other heating.
+* **Usage:** Primarily for the production of electricity and heat ([Map of world's coal power plants](https://www.carbonbrief.org/mapped-worlds-coal-power-plants)) in the iron or glass smelting industry or other heating.
 * **Mining and Transportation:** In 2019, the world mined approximately [8 billion tons of coal](https://www.iea.org/reports/coal-information-overview). China (46% of world production) mined by far the most coal, followed by India (10%), the USA (8%), Indonesia (8%) and Australia (6%). Countries need to import coal to the point of consumption, unlike pipelines which help transport oil and natural gas.
 * The graph shows a remarkable **increase in coal consumption after 2000** caused by the industrialization of China, India and other Asian countries. Coal consumption in Europe and the USA has been declining in recent decades.
 

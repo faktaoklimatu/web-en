@@ -1,6 +1,6 @@
 ---
 layout:        infographic
-title:         "Global CO₂ emissions: fossil fuels & cement production"
+title:         "Global CO₂ emissions from fossil fuels & cement production"
 slug:          "fossil-fuels-emissions"
 redirect_from: "/fossil-fuels-emissions"
 published:     2022-11-22

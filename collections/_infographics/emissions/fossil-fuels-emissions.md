@@ -36,7 +36,7 @@ data-orig:
 
 ### Petroleum
 
-* **Usage:** Most of the oil – or, more accurately, the gasoline and diesel produced from oil – is burned in transportation. It is used for the production of electricity and heat rather exceptionally.
+* **Usage:** The majority of oil – or, more accurately, the gasoline and diesel produced from oil – is burned in transportation. The use of oil for heating is relatively rare.
 * **Extraction and transportation:** The world produces about [100 million barrels of oil](https://www.eia.gov/outlooks/steo/report/global_oil.php) daily, or about 5 billion tons per year (2019). Most oil is produced in the countries of the Persian Gulf (about 32% of world production), followed by the USA (15%) and Russia (13%). While the US covers its consumption with production, most other major oil producers export their production. Ships [transport about 61% of crude oil by sea](https://talkbusiness.net/2017/08/61-of-global-crude-oil-and-petroleum-products-transported-by-sea/) and the rest through [ pipelines](http://worldmap.harvard.edu/data/geonode:global_oil_pipelines_7z9).
 * The graph shows the several-year **decline in consumption after 1979**, caused by the [oil crisis](https://en.wikipedia.org/wiki/1979_oil_crisis) after the revolution in Iran and the subsequent war between Iran and Iraq. At that time, world production fell by about 4%, and oil prices doubled.
 

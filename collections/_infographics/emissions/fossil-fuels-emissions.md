@@ -30,7 +30,7 @@ data-orig:
 
 ### Coal
 
-* **Usage:** Primarily for the production of electricity and heat ([Map of world's coal power plants](https://www.carbonbrief.org/mapped-worlds-coal-power-plants)) in the iron or glass smelting industry or other heating.
+* **Usage:** Primarily for the production of electricity and heat ([Map of the world's coal power plants](https://www.carbonbrief.org/mapped-worlds-coal-power-plants)) in the iron or glass smelting industry or other heating.
 * **Mining and Transportation:** In 2019, the world mined approximately [8 billion tons of coal](https://www.iea.org/reports/coal-information-overview). China (46% of world production) mined by far the most coal, followed by India (10%), the USA (8%), Indonesia (8%) and Australia (6%). Unlike oil and natural gas, which may be transported by pipelines, coal must be brought to the point of consumption by vehicles.
 * The graph shows a remarkable **increase in coal consumption after 2000** caused by the industrialization of China, India and other Asian countries. Coal consumption in Europe and the USA has been declining in recent decades.
 
@@ -57,4 +57,4 @@ data-orig:
 {% endcomment %}
 
 * Cement is produced by heating a mixture of limestone and clay to temperatures of around 1450 °C. This heating also causes limestone to decompose into calcium oxide and carbon dioxide. Approximately half of the total CO2 emissions from cement production arise from the CaCO3 + heat → CaO + CO2 chemical reaction. The other half of the total emissions relates to coal or gas combustion in production. In the graph, the category cement only shows emissions from the chemical reaction. The emissions related to coal and gas combustion in cement production are reported under the categories for those fossil fuels.
-* The total emissions from cement production (including heating fuels) are approximately 2.8 billion tons of CO<sub>2</sub>, or about 8% of world CO<sub>2</sub> production. If the cement industry were a state, its emissions would be the third largest in the world, after China and the USA.
+* The total emissions from cement production (including heating fuels) are approximately 2.8 billion tons of CO<sub>2</sub>, or about 8% of world CO<sub>2</sub> production. If the cement industry were a country, its emissions would be the third largest in the world, after China and the USA.

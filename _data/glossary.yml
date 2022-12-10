@@ -1,0 +1,28 @@
+# inside strings you can use HTML
+# please keep the list alphabetical
+# example of use:
+#   `significant amount of <glossary id="co2eq">CO<sub>2</sub>eq</glossary>`
+
+- id: ipcc
+  name-short: "IPCC"
+  name-long: "Intergovernmental Panel on Climate Change"
+  description: "The _Intergovernmental Panel on Climate Change_ is a scientific body established in 1988 to assess the risks of climate change, confirmed by the UN General Assembly in Resolution 43/53. The mission of the IPCC is to provide a comprehensive scientific assessment of current scientific, technical and socio-economic information from around the world on the dangers of climate change caused by human activities, their potential environmental and socio-economic consequences, and the options for adapting to or mitigating these consequences. The IPCC is the internationally recognized authority on climate change, producing reports that are the agreement of leading climatologists and the consensus of participating governments. This provides authoritative policy advice with far-reaching implications for the economy and lifestyle [[wikipedia](https://en.wikipedia.org/wiki/Intergovernmental_Panel_on_Climate_Change)]."
+
+- id: co2eq
+  name-short: "CO<sub>2</sub>eq"
+  name-long: "CO<sub>2</sub> equivalent"
+  description: "The amount of CO<sub>2</sub> that would make an equivalent contribution to the greenhouse effect of the atmosphere as the amount of the relevant other greenhouse gas over some standardized period of time (typically 100 years) - specifically, the amount of the relevant gas × [GWP coefficient](https://en.wikipedia.org/wiki/Global_warming_potential#Values). E.g. for methane it is about 28 [[IPCC](https://www.ipcc.ch/site/assets/uploads/2018/02/WG1AR5_Chapter08_FINAL.pdf) (page 714)], which can be read as \"1t of CH<sub>4</sub> has an equivalent contribution to the atmospheric greenhouse effect as 28t of CO<sub>2</sub>\". Put simply, methane is 28 times more potent a greenhouse gas than CO<sub>2</sub>. Here at factsonclimate.org, where available data and proper data processing allow, we prefer CO<sub>2</sub>eq because it allows us to look at the issue of global climate change more comprehensively and accurately.."
+
+- id: noaa
+  name-short: "NOAA"
+  name-long: "National Oceanic and Atmospheric Administration"
+  description: "NOAA, or the National Oceanic and Atmospheric Administration, is the US government agency responsible for monitoring and researching the oceans and atmosphere and the environment more generally. [[wikipedia](https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration)]"
+
+- id: phase-out
+  name-short: "Coal phase-out"
+  description: "For electricity generation, coal-fired power plants produce almost twice as much CO<sub>2</sub> emissions as gas-fired power plants and almost a hundred times more than renewables or nuclear power plants. Coal phase-out refers to the shutdown of coal-fired power plants and their replacement by sources of electricity with lower emissions."
+
+- id: rcp
+  name-short: "RCP"
+  name-long: "Representative Concentration Pathway"
+  description: "_Representative trends in concentrations_ are different scenarios for the evolution of greenhouse gas concentrations. They are labelled according to the approximate total radiative forcing in 2100 compared to 1750, e.g. scenario _RCP2.6_ means 2.6 W/m<sup>2</sup>[[wikipedia](https://en.wikipedia.org/wiki/Representative_Concentration_Pathway)]"

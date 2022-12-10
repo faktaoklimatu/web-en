@@ -1,0 +1,23 @@
+---
+layout:      single-section-page
+title:       "Glossary of terms"
+slug:        glossary
+intro:       "A brief overview of the most commonly used keywords and abbreviations with a short explanation or commentary. This glossary is a work in progress and more terms will be added over time."
+search_id:   glossary
+search_type: "Glossary"
+---
+{%- assign sorted_glossary = site.data.glossary | sort_localized: "name-short" -%}
+
+<p class="lead">{{ page.intro }}</p>
+
+<ul class="inline-bullet-list">
+    {%- for item in sorted_glossary %}
+    <li><a href="#{{ item.id }}">{{ item.name-short }}</a></li>
+    {%- endfor %}
+</ul>
+
+{% for item in sorted_glossary %}
+<hr/>
+<h3 id="{{ item.id }}">{{ item.name-short }}{% if item.name-long %}<span class="lead"> ({{ item.name-long }})</span>{% endif %}</h3>
+{{ item.description | markdownify }}
+{% endfor %}

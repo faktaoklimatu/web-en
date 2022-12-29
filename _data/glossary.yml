@@ -27,6 +27,10 @@
   name-long: "Representative Concentration Pathway"
   description: "_Representative trends in concentrations_ are different scenarios for the evolution of greenhouse gas concentrations. They are labelled according to the approximate total radiative forcing in 2100 compared to 1750, e.g. scenario _RCP2.6_ means 2.6 W/m<sup>2</sup>[[wikipedia](https://en.wikipedia.org/wiki/Representative_Concentration_Pathway)]"
 
+- id: sequestration
+  name-short: "Sequestration"
+  description: "The term sequestration is most often used in connection with carbon or CO<sub>2</sub>. Carbon sequestration refers to the long-term removal of CO<sub>2</sub> from the atmosphere by natural or industrial processes. Examples of natural processes include photosynthesis and the subsequent storage of carbon in tree trunks, or the weathering of rocks, in which carbon is chemically bound. Industrial methods can capture CO<sub>2</sub> at the point of combustion (then Carbon Capture and Storage, CCS) or they can capture it directly from the atmosphere (Direct Atmospheric Capture, DAC). Efforts to increase carbon sequestration by enhancing natural processes or by building industrial facilities play an important role in efforts to reverse the rise in atmospheric CO<sub>2</sub> concentrations and thus stop global warming."
+
 - id: w
   name-short: "W and Wh (kW, MW… and kWh, MWh…)"
   name-long: "watt, watt-hour and their multiples"

@@ -41,5 +41,5 @@ We summarise the commitments of other states in the research paper [Emission com
 -->
 ## References
 
-* The source of carbon neutrality terms is the [Net Zero Tracker](https://zerotracker.net) project.
-* The source of the emissions database is the [EDGAR](https://edgar.jrc.ec.europa.eu/) database (*Emission Database for Global Atmospheric Research*) operated by the European Environment Agency.
+* The reference for the carbon neutrality terms is the [Net Zero Tracker](https://zerotracker.net) project.
+* The reference for the emissions database is the [EDGAR](https://edgar.jrc.ec.europa.eu/) database (*Emission Database for Global Atmospheric Research*) operated by the European Environment Agency.

@@ -20,7 +20,7 @@ data-orig:
     slug="uhlikova-neutralita"
 %}
 {% endcomment %}
-This infographic shows the share of carbon-neutral countries in global CO<sub>2</sub> emissions in 2018. Excluding the Land Use, Land Use Change and Forestry sector (LULUCF), all CO<sub>2</sub> emissions, including international maritime and aviation transport. **As of March 2022, 87% of global emissions come from countries moving towards carbon neutrality**, with 131 countries total.
+This infographic shows the share of carbon-neutral countries in global CO<sub>2</sub> emissions in 2018. Excluding the Land Use, Land Use Change and Forestry sector (LULUCF), all CO<sub>2</sub> emissions, including international maritime and aviation transport. **As of March 2022, the 131 countries that are moving towards carbon neutrality are responsible for 87% of global emissions**.
 
 Countries that are moving towards carbon neutrality are those that have commitments: fulfilled (e.g., Bhutan), set in law, set in a policy document, in the form of a declaration/commitment, or at the proposal/discussion stage. If we exclude countries with commitments in the draft or discussion phase, there would be a 3% reduction in covered emissions to 84% of global emissions.
 

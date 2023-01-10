@@ -12,7 +12,7 @@ data-orig:
   - [ "Our Jupyter notebook", "https://github.com/faktaoklimatu/data-analysis/blob/master/notebooks/net-zero-pledges.ipynb" ]
 ---
 
-## How to read an infographic?
+## How to read an infographic
 {% comment %}
 {% include preview-box.html
     title="What is carbon neutrality?"

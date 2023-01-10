@@ -39,7 +39,7 @@ The five largest emitters are the following countries/groups, which together acc
 <!--
 We summarise the commitments of other states in the research paper [Emission commitments of states](/studie/2021-reserse-zavazky-statu).
 -->
-## Sources
+## References
 
 * The source of carbon neutrality terms is the [Net Zero Tracker](https://zerotracker.net) project.
 * The source of the emissions database is the [EDGAR](https://edgar.jrc.ec.europa.eu/) database (*Emission Database for Global Atmospheric Research*) operated by the European Environment Agency.

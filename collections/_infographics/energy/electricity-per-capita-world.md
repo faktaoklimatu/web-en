@@ -17,7 +17,7 @@ data-orig:
 ## How to read this graph
 
 * The graph shows the **worldwide development of electricity produced per person by individual sources in the years 2000-2019**, as well as a comparison of selected world regions. Values are given in **<glossary id="w">kWh</glossary> of electricity produced per person per year**.
-* All graphs have the same vertical axis, so for regions with low average consumption per person, the filled part occupies only a minimal area of the graph.
+* All graphs have the same vertical axis, so for regions with low average consumption per person, the filled part occupies only a minimal portion of the graph.
 * However, the per capita comparison does not account for the different sizes of the regions, so **the right column completes the regions' share of total global electricity generation in 2019**. The supplementary infographic, [Electricity generation in world regions](/infographics/electricity-per-capita-world), compares regions in terms of total electricity generation.
 
 ## Comments on the graph

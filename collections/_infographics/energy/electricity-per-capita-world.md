@@ -34,7 +34,7 @@ data-orig:
 * Electricity represents only a fraction of total energy consumption; for example, most energy used for transport or heating is not included in the graph (as it is direct fossil fuel combustion, not electricity).
 * The chart does not include other renewable sources with a marginal share of production (e.g. geothermal energy), accounting for 0.4% of electricity production worldwide.
 
-## Data source
+## Data sources
 
 * The base for the infographic is data from the organization [Ember](https://ember-climate.org/) (formerly known as Sandbag). It is an independent climate think-tank focused on supporting the transition from coal to clean sources of electricity.
 * Ember relies primarily on Eurostat data for the European Union, national databases for the US, China, India and other major countries, and the US Department of Energy's International Data Section for the rest of the world.

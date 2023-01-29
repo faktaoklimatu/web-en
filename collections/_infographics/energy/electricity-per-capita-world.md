@@ -36,7 +36,7 @@ data-orig:
 
 ## Data sources
 
-* The base for the infographic is data from the organization [Ember](https://ember-climate.org/) (formerly known as Sandbag). It is an independent climate think-tank focused on supporting the transition from coal to clean sources of electricity.
+* The base for the infographic is data from the [Ember](https://ember-climate.org/) organization (formerly known as Sandbag). It is an independent climate think-tank focused on supporting the transition from coal to clean sources of electricity.
 * Ember relies primarily on Eurostat data for the European Union, national databases for the US, China, India and other major countries, and the US Department of Energy's International Data Section for the rest of the world.
 * One of the main activities of the Ember think tank is the publication of reports on electricity production in the European Union. In 2020, it also published a report on global electricity production<!--, a summary of which can be found [in studies](/studie/2020-globalni-zprava-o-elektrine)-->. The infographic's base is the dataset attached to this report.
 * The infographic obtained the population data from the United Nations.

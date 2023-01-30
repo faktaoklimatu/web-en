@@ -1,6 +1,6 @@
 ---
 layout:        infographic
-title:         "What is 'Fit for 55'"
+title:         "What is 'Fit for 55'?"
 slug:          "fit-for-55"
 redirect_from: "/fit-for-55"
 published:     2022-11-30

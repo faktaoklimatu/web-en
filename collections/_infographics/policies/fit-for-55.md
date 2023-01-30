@@ -32,7 +32,7 @@ Although the EU and the world are arguably facing the biggest economic and socie
 
 ## Principles
 
-The following principles permeate the proposed measures in the 'Fit for 55' package:
+The following principles guide the proposed measures in the 'Fit for 55' package:
 * **Adequacy and effectiveness of measures** - the proposed measures are based on market mechanisms and regulations.
 
 * **Polluter pays** - firms bear the costs of the emissions they produce, which motivates them to adopt clean technologies. This principle is supported in particular by the emissions trading scheme.<!-- For more information on emission allowances, we recommend our [explainer](/explainers/emisni-povolenky-ets).-->

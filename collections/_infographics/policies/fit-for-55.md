@@ -91,7 +91,7 @@ Below is an overview of the proposed measures, including references to the Europ
 
 #### Transportation
 
-<!--* [Stricter emission regulations for cars and vans](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52021PC0556)-->
+* [Stricter emission regulations for cars and vans](https://eur-lex.europa.eu/resource.html?uri=cellar:870b365e-eecc-11eb-a71c-01aa75ed71a1.0001.01/DOC_2&format=PDF)
 * [New infrastructure for alternative fuels](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52021PC0559)
 * [Initiative for more sustainable aviation fuels ReFuelEU](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52021PC0561)
 * [FuelEU Cleaner Marine Fuels Initiative](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52021PC0562)

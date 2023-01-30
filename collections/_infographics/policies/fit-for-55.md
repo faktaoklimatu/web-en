@@ -113,7 +113,7 @@ For more information on the proposed measures, go to our infographic [Fit for 55
 
 ### Who to contact next
 
-Here are some of the experts who deal with the 'Fit for 55' package:
+Here are some of the experts who work with the 'Fit for 55' package:
 
 [Kateřina Davidová](https://www.cde-org.cz/cs/kontakt), Centre for Transport and Energy  
 [Štěpán Vizi](https://www.cde-org.cz/cs/kontakt), Centre for Transport and Energy  
@@ -131,4 +131,4 @@ Here are some of the experts who deal with the 'Fit for 55' package:
 
 [^emission-co2]: Our World in Data: [CO<sub>2</sub> emissions by region](https://ourworldindata.org/co2-emissions#co2-emissions-by-region)
 
-[^eurobarometer]: [Eurobarometer 2021 ](https://climate.ec.europa.eu/system/files/2021-06/cz_climate_2021_en.pdf). The percentage of those who perceive climate change as a serious problem includes respondents who perceive it as a *very* or *somewhat* serious problem. Percentage agreeing with the statement includes respondents who *strongly* or *likely* agree with the statement.
+[^eurobarometer]: [Eurobarometer 2021 ](https://climate.ec.europa.eu/system/files/2021-06/cz_climate_2021_en.pdf). The percentage of those who perceive climate change as a serious problem includes respondents who perceive it as a *very* or *somewhat* serious problem. The percentage agreeing with the statement includes respondents who *strongly* or *likely* agree with the statement.

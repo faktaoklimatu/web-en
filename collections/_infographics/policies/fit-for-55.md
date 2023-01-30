@@ -71,7 +71,7 @@ Below is an overview of the proposed measures, including references to the Europ
 * [Carbon offsetting at the border](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52021PC0564) (*Carbon Border Adjustment Mechanism*, CBAM)
 * [Revision of the Energy Taxation Directive](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52021PC0563) (*Energy Taxation Directive*, ETD)
 
-### Objectives and regulation
+### Objectives and regulations
 
 #### Commitments to reduce emissions (in sectors not burdened by market mechanisms)
 

@@ -33,7 +33,7 @@ The area of the largest circle (China) corresponds to 12.4 Gt <glossary id="co2e
 * Japan's system includes the Satiama Prefecture ETS and the Tokyo ETS.
 * China has eight pilot emission trading systems in operation so far, with a national ETS to be launched in 2020. The coverage is based on preliminary unofficial estimates from an announcement by the State Development and Reform Commission of the People's Republic of China. The national ETS will initially cover only the power sector, with other sectors covered by individual pilot emission trading systems.
 
-## The underlying study of the infographic
+## The study used in this infographic
 
 We took the infographic from a [study](https://openknowledge.worldbank.org/handle/10986/31755) published in 2019 by the Global Climate Change Group of the World Bank Group. **The study maps 57 initiatives for charging emissions at the state and regional levels and describes which countries choose which measures and how they implement them.** The most important conclusions of the study:
 

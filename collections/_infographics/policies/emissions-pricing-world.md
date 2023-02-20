@@ -13,7 +13,7 @@ data-orig:
   - [ "WBG Report", "https://openknowledge.worldbank.org/handle/10986/31755" ]
 ---
 
-## How to read the infographic?
+## How to read the infographic
 
 This infographic shows the **total emissions for a country** or region, expressed as the size of a circle. The coloured box indicates the **amount of emissions covered by a carbon tax or an emission allowance scheme**, and the colour, or combination of colours, corresponds to the **type of measures implemented**. The symbols illustrate the **economic sectors affected by the measures**.
 

@@ -54,7 +54,7 @@ Emissions pricing measures are generally considered effective tools for achievin
 * *How can the introduction of measures in other countries be influenced?*
 * *Is it possible to link emissions trading schemes and introduce a single international price or carbon tax?*
 
-Financial instruments for mitigating climate change are discussed in more detail in the [International Monetary Fund study](https://www.imf.org/en/Publications/FM/Issues/2019/09/12/fiscal-monitor-october-2019)<!--, from which we have translated [infographic](/infographics/mitigacni-opatreni-mmf), which compares the different mechanisms for controlling greenhouse gas emissions-->.
+Financial instruments for mitigating climate change are discussed in more detail in an [International Monetary Fund study](https://www.imf.org/en/Publications/FM/Issues/2019/09/12/fiscal-monitor-october-2019)<!--, from which we have translated [infographic](/infographics/mitigacni-opatreni-mmf), which compares the different mechanisms for controlling greenhouse gas emissions-->.
 
 ## Commentary: European Emissions Trading System
 

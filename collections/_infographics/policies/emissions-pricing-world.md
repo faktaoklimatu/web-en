@@ -40,7 +40,7 @@ We took the infographic from a [study](https://openknowledge.worldbank.org/handl
 * Greenhouse gas pricing initiatives cover **20% of global emissions**.
 * The number of initiatives is growing rapidly, with 38 implemented in the last 10 years.
 * 51% of covered emissions are below $10 per tonne CO2eq, while **the price that would have led to meeting the Paris Climate Agreement targets is $40-$80** per tonne CO2eq, depending on location, which in effect meets only 5% of covered emissions. Sweden has introduced the highest unit price at $127 per tonne  CO<sub>2</sub>eq.
-* The study also looks at so-called implicit emissions pricing, which includes, for example, higher taxation of fossil fuels. Therefore, the total share of emissions covered by any legislation is still slightly higher than the 20% mentioned above.
+* The study also newly looks at so-called implicit emissions pricing, which includes, for example, higher taxation of fossil fuels. Therefore, the total share of emissions covered by any legislation is still slightly higher than the 20% mentioned above.
 
 The study is also summarized in a short [interview](https://www.youtube.com/watch?v=jBcpZahjKcE)
 with Celine Ramstein, one of the study's authors.

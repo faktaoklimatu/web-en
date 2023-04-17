@@ -13,7 +13,7 @@ data-orig:
   - [ "Eurostat", "https://ec.europa.eu/eurostat/web/products-datasets/-/ENV_AIR_GGE" ]
 ---
 
-## How to read this graph
+## How to read the infographic
 
 * All emission values are given in units of <glossary id="co2eq">CO<sub>2</sub>eq</glossary>.
 * The infographic shows <glossary id="anthropogenicgreenhousegases">anthropogenic CO<sub>2</sub> emissions</glossary> and emissions of N<sub>2</sub>O, CH<sub>4</sub>, HFC, PFC, SF<sub>6</sub> and NF<sub>3</sub> expressed in units of CO<sub>2</sub> equivalent (CO<sub>2</sub>eq). This unit takes into account the long-term effect of greenhouse gases in the atmosphere and converts them into an amount of CO<sub>2</sub> that would have the same warming effect. For more, see the article on [Global warming potential](https://en.wikipedia.org/wiki/Global_warming_potential).

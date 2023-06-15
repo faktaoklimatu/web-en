@@ -1,7 +1,7 @@
 # Local translations of core strings
 
 navigation:
-  dev-version: "This is the developer version."
+  dev-version: "Developer version"
   dev-differences: "Compared to production, web analytics is missing, cache validity is down to 5 minutes and CSP violations are not sent to URI ports."
   search:
     empty: "We found nothing"

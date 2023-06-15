@@ -31,6 +31,11 @@ topic:
   intro-title: "Intro"
   nutshell-id: "nutshell"
   nutshell-title: "In a nutshell"
+  region:
+    cz: "CZ"
+    sk: "SK"
+    eu: "EU"
+    world: "world"
 
 text:
   toc: "Table of Contents"

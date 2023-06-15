@@ -6,7 +6,7 @@ sitemap: true
 ---
 <div class="section intro pb-4">
     <div class="container">
-        <h1 class="display-1" id="home">Facts on Climate<br>Change</h1>
+        <h1 class="display" id="home">Facts on Climate<br>Change</h1>
         <span class="tagline">Publicly available <span class='nobr'>infographics and explainers</span></span>
         <p>We are a team of independent analysts and experts, committed to cultivating the debate on climate change to be factual, constructive and based on science and verified data.</p>
         <p class="intro-buttons">
@@ -17,7 +17,7 @@ sitemap: true
 </div>
 
 <div class="section pt-4 bg-extralight-blue"><div class="container" markdown="1">
-{: .display-2}
+{: .display}
 ## Featured
 
 <p class="lead mb-0">New to the topic? Want to learn about climate change, its relationship to the level of emissions, temperature change and future predictions? Start with the infographics below.</p>
@@ -31,7 +31,7 @@ sitemap: true
 
 {% assign sorted_index_tags = site.data.tags | where_exp: "item", "item.index-weight > 0" | sort: "index-weight" %}
 <div class="section"><div class="container" markdown="1">
-{: .display-2}
+{: .display}
 ## Key project areas
 
 {:.lead}
@@ -41,7 +41,7 @@ Climate change is a complex of interrelated phenomena. That is why the data that
 {% for index_tag in sorted_index_tags %}
 <div class="accordion-item">
     <div class="accordion-header collapsed" id="heading_{{ index_tag.id }}" role="button" data-toggle="collapse" data-target="#collapse_{{ index_tag.id }}" aria-expanded="false" aria-controls="collapse_{{ index_tag.id }}">
-        <h3 class="display-3">
+        <h3 class="display">
         <span class="fa fa-fw fa-chevron-up"></span>
         {{ index_tag.name-long | capitalize }}
         <small class="text-secondary d-none d-md-inline">({% include includes-local/object-stats.html tag=index_tag.id %})</small>
@@ -61,7 +61,7 @@ Climate change is a complex of interrelated phenomena. That is why the data that
 
 </div></div>
 <div class="section"><div class="container clearfix" markdown="1">
-{:#about .display-2}
+{:#about .display}
 ## About our work
 
 <div class="row about-us lead mb-5 justify-content-between">
@@ -86,7 +86,7 @@ Climate change is a complex of interrelated phenomena. That is why the data that
 </div>
 </div>
 
-{:.display-3}
+{:.display}
 ### Awards
 
 <div class="row about-us lead">
@@ -113,7 +113,7 @@ Climate change is a complex of interrelated phenomena. That is why the data that
 </div></div>
 <div class="section"><div class="container clearfix" markdown="1">
 
-{:.display-2 .mb-3}
+{:.display .mb-3}
 ## Who is using our materials?
 
 {:.lead}

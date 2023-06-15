@@ -3,7 +3,9 @@ layout: single-section-page
 title: Privacy policy
 slug: gdpr
 ---
-{:.lead}
+<div class="row"><div class="col-12 col-lg-10" markdown="1">
+
+{:.perex}
 Created in compliance with applicable legislation and Regulation (EU) 2016/679 of the European Parliament and Council on the protection of natural persons with regard to the processing of personal data and on the free movement of such data. This Privacy Policy is valid as of 6 October 2020.
 
 ## Data processor
@@ -12,7 +14,7 @@ Your personal data is processed by Otevřená data o klimatu, z. ú., registered
 
 Address: Cyrilská 7, 602 00 Brno, ID: 095 55 587
 
-Contact person: Anna Macková 
+Contact person: Anna Macková
 
 If you have any questions, please email us at [gdpr@faktaoklimatu.cz](mailto:gdpr@faktaoklimatu.cz).
 
@@ -50,3 +52,5 @@ Your personal data is processed by our organization and by the third parties lis
 * [ECOMAIL.CZ, s.r.o.](https://ecomail.cz/) processes the data in our newsletters and email communication
 * [Jaspar s.r.o.](https://www.ucetnictvijaspar.cz/) processes our accounting data
 * [Google Ireland Limited](https://en.wikipedia.org/wiki/Google) processes the data related to the website traffic via [Google Analytics](https://marketingplatform.google.com/about/analytics/)
+
+</div></div>

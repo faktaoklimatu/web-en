@@ -2,7 +2,8 @@
 layout:     empty
 title:      "How to use our materials"
 slug:       how-to-use
-search_type: "How to use"
+preview_type: "How to use"
+include_in_search: True
 ---
 <div class="section">
 <div class="container" markdown="1">

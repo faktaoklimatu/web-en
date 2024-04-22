@@ -8,6 +8,7 @@ intro: |
 preview_type: "Publication"
 preview_image: "/assets-local/figures/atlas/atlas-preview.png"
 download_url:  "/assets-local/files/atlas-of-climate-change.pdf"
+eshop_link: https://www.biobooks.cz/p/atlas-of-climate-change-eng
 include_in_search: true
 ---
 
@@ -22,8 +23,9 @@ include_in_search: true
     </div>
     <div class="col-md-12 col-lg-3 mt-5 mt-lg-0">
         <h3>Download</h3>
-        <p>You can download the <em>Atlas</em> for free as a PDF.</p>
-        <a href="{{ page.download_url }}" target="_blank" class="btn btn-primary"><i class="fas fa-fw fa-file-pdf"></i> Download PDF</a>
+        <p>You can download the <em>Atlas</em> for free as a PDF or buy a printed version directly.</p>
+        <a href="{{ page.download_url }}" target="_blank" class="btn btn-secondary"><i class="fas fa-fw fa-file-pdf"></i> Download PDF</a>
+        <a href="{{ page.eshop_link }}" class="btn btn-primary"><i class="fas fa-fw fa-atlas"></i> Buy printed</a>
         <h3>Support our work</h3>
         <p>Do you value our activities and would you like to support Fakta o klimatu financially?</p>
         <a href="{{ site.fundraising }}" class="btn btn-primary"><i class="fas fa-fw fa-heart"></i> Donate</a>
@@ -62,6 +64,14 @@ However, the majority of these materials are currently only available in Czech. 
 ## How to obtain the Atlas?
 
 <div class="row"><div class="col-md-6 my-3" markdown="1">
+
+### Buy a printed book
+
+You can buy the printed _Atlas_ directly from its distributor on the following page. Moreover, your order contributes to Fakta o klimatu to make further updates and the creation of new materials possible.
+
+<a href="{{ page.eshop_link }}" class="btn btn-primary"><i class="fas fa-fw fa-atlas"></i> Buy printed</a>
+
+</div><div class="col-md-6 my-3" markdown="1">
 
 ### Download as a PDF
 

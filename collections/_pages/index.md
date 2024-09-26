@@ -11,7 +11,7 @@ sitemap: true
         <p>We are a team of independent analysts and experts, committed to cultivating the debate on climate change to be factual, constructive and based on science and verified data.</p>
         <p class="intro-buttons">
             <a href="#about" class="btn btn-secondary"><i class="fas fa-fw fa-info"></i> More about project</a>
-            <a href="https://twitter.com/{{ site.twitter }}" class="btn btn-secondary"><i class="fab fa-fw fa-twitter"></i> Twitter (CZ)</a>
+            <a href="https://twitter.com/{{ site.twitter }}" class="btn btn-secondary"><i class="fab fa-fw fa-x-twitter"></i> X (in Czech only)</a>
         </p>
     </div>
 </div>
